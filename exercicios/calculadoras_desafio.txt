@@ -1,0 +1,33 @@
+27/06/2024 - qui
+
+1) Calcular a área de um círculo
+2) Calcular a área e o perímetro de um retângulo
+3) Calcular a frequência cardíaca máxima (fórmula de tanaka)
+4) Converter km/h para m/s
+5) Converter a temperatura de Kelvin para Celsius
+6) Calcular o IMC (só o cálculo do IMC)
+7) Converter pés(unidade de medida) em metros
+Diego 8) Converter metros em pés(unidade de medida)
+9) Calcular a média final de uma disciplina(4 bimestres)
+10) Cálculo de combustível (quanto vai ser gasto em uma viagem)
+11) Calcular o volume de um aquário
+12) Converter real para dólar (a cotação varia todo dia)
+13) Converter real para euro (a cotação varia todo dia)
+14) Calcular a quantidade de tijolos por metro quadrado (tijolo maciço)
+15) Calcular a quantidade de tijolos por metro quadrado (tijolo baiano 8 furos)
+16) Converter passos em kilômetros
+17) Calcular o desconto de vale transporte
+18) Converter Mb para Gb
+
+
+Como converter metros em pés 1 metro é igual a 3.28084 pés: 
+1 m = (1 / 0,3048) ft = 3,28084 ft A distância d em pés (ft) 
+é igual à distância d em metros (m) dividida por 0,3048: d (ft) = d (m) / 0,3048
+
+variavel
+D
+constante
+M / 0,3048
+resultado
+Pés
+
