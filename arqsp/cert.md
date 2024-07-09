@@ -1,4 +1,7 @@
-## Hour Of Code.org
+> [!IMPORTANT]
+> The certificates listed are part of extracurricular activities in order to increase the fluency and learning capacity of the students of the free course ["Assistant in the Development of Computational Applications"](https://www.sp.senac.br/cursos-livres/curso-de-assistente-de-desenvolvimento-de-aplicativos-computacionais) at Senac Tatuapé Cel. American Louis (620 hours).
+
+# Hour Of Code.org
 I just did the #HourOfCode - check it out! (Thanks @BillGates for supporting @codeorg) 
 
 <details>
@@ -42,3 +45,7 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 | :---: |
 
 </details>
+
+<h4 align="center">    
+ :construction:  Projeto em construção  :construction:
+</h4>
