@@ -26,7 +26,8 @@ Learn the basic concepts of Computer Science with drag and drop programming. Thi
 Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #FlappyCode 
 [emit](https://studio.code.org/congrats?i=_1_e6461769195c8429bd90735f7e2780ec&s=ZmxhcHB5)
 
-!https://github.com/diegoppz/senacJS/blob/main/arqsp/Anima%C3%A7%C3%A3oMITCODE2.gif?raw=true!
+
 ```
+https://github.com/diegoppz/senacJS/blob/main/arqsp/Anima%C3%A7%C3%A3oMITCODE2.gif?raw=true
 
 </details>
