@@ -1,11 +1,11 @@
 > [!NOTE]
-> The certificates listed are part of extracurricular activities in order to increase the fluency and learning capacity of the students of the free course ["Assistant in the Development of Computational Applications"](https://www.sp.senac.br/cursos-livres/curso-de-assistente-de-desenvolvimento-de-aplicativos-computacionais) at Senac Tatuapé Cel. American Louis (620 hours).
+> The certificates listed are part of extracurricular activities in order to increase the fluency and learning capacity of the students of the free course ["Assistant in the Development of Computational Applications"](https://www.sp.senac.br/cursos-livres/curso-de-assistente-de-desenvolvimento-de-aplicativos-computacionais) (620 hours) at [Senac Tatuapé Cel. American Louis](https://www.sp.senac.br/senac-tatuape-cel-luis-americano) .
 
 ![image](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/snclogominiaturesblkp04.png?raw=true)
-![image](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/snclogominiaturesblkp04.png?raw=true)
+![image](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/hoclogoblk02.png)
 
 # Hour Of Code.org
-I just did the #HourOfCode - check it out! (Thanks @BillGates for supporting @codeorg) 
+I just did the #HourOfCode - check it out! (Thanks @BillGates and @Microsoft for supporting @codeorg) 
 
 <details>
   <summary>Certificate Hour Of Code</summary>
@@ -26,11 +26,6 @@ Learn the basic concepts of Computer Science with drag and drop programming. Thi
 [Program Content](https://studio.code.org/s/hourofcode/lessons/1)
 
 
-| Primeiro cabeçalho | Segundo cabeçalho |
-| — — — — — — — — —  | — — — — — — — — — |
-| Célula de conteúdo | Célula de conteúdo |
-| Célula de conteúdo | Célula de conteúdo |
-
 
 ## (16) FlappyBird game
 [FlappyBird Game Project](https://studio.code.org/c/2262938109)
@@ -40,8 +35,7 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
   <img src="https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/badgesAndShields/wasFlappyBirdTestAnimation.gif">
 </p>
 
-[emit](https://studio.code.org/congrats?i=_1_e6461769195c8429bd90735f7e2780ec&s=ZmxhcHB5)
-
+[my certificate of conclude project](https://studio.code.org/congrats?i=_1_e6461769195c8429bd90735f7e2780ec&s=ZmxhcHB5)
 
 ### Others code learn
 
