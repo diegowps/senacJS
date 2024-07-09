@@ -1,5 +1,9 @@
 ## Hour Of Code.org
 I just did the #HourOfCode - check it out! (Thanks @BillGates for supporting @codeorg) 
+
+<details>
+  <summary>Click me</summary>
+  
 [Certificate Validator](https://studio.code.org/certificates/eyJuYW1lIjoiRGllZ28gVW1iZWxpbm8iLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbmZvc3lzIEZvdW5kYXRpb24gVVNBIn0) 
 
 <p align="center">
@@ -19,5 +23,23 @@ Learn the basic concepts of Computer Science with drag and drop programming. Thi
 
 
 [FlappyBoard Game](https://studio.code.org/c/2262938109)
-Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) https://studio.code.org/c/2262938109 #FlappyCode 
-https://studio.code.org/congrats?i=_1_e6461769195c8429bd90735f7e2780ec&s=ZmxhcHB5
+Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #FlappyCode 
+[emit](https://studio.code.org/congrats?i=_1_e6461769195c8429bd90735f7e2780ec&s=ZmxhcHB5)
+
+!https://github.com/diegoppz/senacJS/blob/main/arqsp/Anima%C3%A7%C3%A3oMITCODE2.gif?raw=true!
+
+
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
