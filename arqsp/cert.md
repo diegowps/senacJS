@@ -28,6 +28,6 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 
 
 ```
-https://github.com/diegoppz/senacJS/blob/main/arqsp/Anima%C3%A7%C3%A3oMITCODE2.gif?raw=true
+https://github.com/diegoppz/senacJS/blob/main/arqsp/Anima%C3%A7%C3%A3oMITCODE2.gif
 
 </details>
