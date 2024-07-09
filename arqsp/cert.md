@@ -32,10 +32,10 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 
 ### Others code learn
 
-[ ]  [codeCademy](https://www.codecademy.com/learn/welcome-to-codecademy)
-[  ]  [processing](https://processing.org/)
-[   ]  [calculate](https://education.ti.com/en/activities/ti-codes)
-[x]  [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
+[-]  [codeCademy](https://www.codecademy.com/learn/welcome-to-codecademy)
+[   ]  [processing](https://processing.org/)
+[ ]  [calculate](https://education.ti.com/en/activities/ti-codes)
+[ x ]  [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
 
 # Author
 | [<img src="https://avatars.githubusercontent.com/u/54283429?v=4&size=64" width=115><br><sub>Diego Umbelino</sub>](https://github.com/diegoppz) |
