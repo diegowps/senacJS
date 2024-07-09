@@ -27,7 +27,7 @@ Learn the basic concepts of Computer Science with drag and drop programming. Thi
 | Célula de conteúdo | Célula de conteúdo |
 | Célula de conteúdo | Célula de conteúdo |
 
-## (16) FlappyBird game
+## - [X] (16) FlappyBird game
 [FlappyBird Game Project](https://studio.code.org/c/2262938109)
 Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #FlappyCode
 
