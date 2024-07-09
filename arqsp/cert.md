@@ -3,36 +3,39 @@ I just did the #HourOfCode - check it out! (Thanks @BillGates for supporting @co
 
 <details>
   <summary>Certificate Hour Of Code</summary>
-  
-[Certificate Validator](https://studio.code.org/certificates/eyJuYW1lIjoiRGllZ28gVW1iZWxpbm8iLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbmZvc3lzIEZvdW5kYXRpb24gVVNBIn0) 
 
 <p align="center">
   <img src="https://github.com/diegoppz/senacJS/blob/main/arqsp/ourOfCode-01-eyJuYW1lIjoiRGllZ28gVW1iZWxpbm8iLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbmZvc3lzIEZvdW5kYXRpb24gVVNBIn0=.jpg">
 </p>
 
-## Write your first computer program "Classic Maze" 
-[How to plan your Hour of Code](https://hourofcode.com/br/how-to)
-[Curriculum](https://curriculum.code.org/pt-br/hoc/plugged/9/)
-[Init project](https://studio.code.org/hoc/1)
-[Continuous](https://studio.code.org/s/course2)
+[Certificate Validator](https://studio.code.org/certificates/eyJuYW1lIjoiRGllZ28gVW1iZWxpbm8iLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbmZvc3lzIEZvdW5kYXRpb24gVVNBIn0) 
+
+## (3) Write your first computer program "Classic Maze" 
+  [How to plan your Hour of Code](https://hourofcode.com/br/how-to)
+  [Curriculum](https://curriculum.code.org/pt-br/hoc/plugged/9/)
+  [Init project](https://studio.code.org/hoc/1)
+  [Continuous](https://studio.code.org/s/course2)
 
 Learn the basic concepts of Computer Science with drag and drop programming. This is a game-like, self-directed tutorial starring video lectures by Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Learn repeat-loops, conditionals, and basic algorithms. Available in 37 languages.
 [Program Content](https://studio.code.org/s/hourofcode/lessons/1)
 
-```
-[FlappyBoard Game](https://studio.code.org/c/2262938109)
-Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #FlappyCode 
+## (16) FlappyBird game
+[FlappyBird Game Project](https://studio.code.org/c/2262938109)
+Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #FlappyCode
+
 [emit](https://studio.code.org/congrats?i=_1_e6461769195c8429bd90735f7e2780ec&s=ZmxhcHB5)
 
 
-```
-
 ### Others code learn
 
-[codeCademy](https://www.codecademy.com/learn/welcome-to-codecademy)
-[processing](https://processing.org/)
-[calculate](https://education.ti.com/en/activities/ti-codes)
-[CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
+  [codeCademy](https://www.codecademy.com/learn/welcome-to-codecademy)
+  [processing](https://processing.org/)
+  [calculate](https://education.ti.com/en/activities/ti-codes)
+  [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
+
+  # @Author
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Diego Umbelino</sub>](https://github.com/diegoppz) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| :---: | :---: | :---: |
 
 <p align="center">
   <img src="https://github.com/diegoppz/senacJS/blob/main/arqsp/Anima%C3%A7%C3%A3oMITCODE2.gif">
