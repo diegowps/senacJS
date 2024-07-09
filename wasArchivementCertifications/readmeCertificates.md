@@ -8,7 +8,7 @@ I just did the #HourOfCode - check it out! (Thanks @BillGates for supporting @co
   <summary>Certificate Hour Of Code</summary>
 
 <p align="center">
-  <img src="https://github.com/diegoppz/senacJS/blob/main/arqsp/ourOfCode-01-eyJuYW1lIjoiRGllZ28gVW1iZWxpbm8iLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbmZvc3lzIEZvdW5kYXRpb24gVVNBIn0=.jpg">
+  <img src="https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/badgesAndShields/wasCompleteHourOfCode-eyJuYW1lIjoiRGllZ28gVW1iZWxpbm8iLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbmZvc3lzIEZvdW5kYXRpb24gVVNBIn0%3D.jpg">
 </p>
 
 [Certificate Validator](https://studio.code.org/certificates/eyJuYW1lIjoiRGllZ28gVW1iZWxpbm8iLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbmZvc3lzIEZvdW5kYXRpb24gVVNBIn0) 
