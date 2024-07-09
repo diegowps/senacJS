@@ -2,7 +2,7 @@
 I just did the #HourOfCode - check it out! (Thanks @BillGates for supporting @codeorg) 
 
 <details>
-  <summary>Click me</summary>
+  <summary>Certificate Hour Of Code</summary>
   
 [Certificate Validator](https://studio.code.org/certificates/eyJuYW1lIjoiRGllZ28gVW1iZWxpbm8iLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbmZvc3lzIEZvdW5kYXRpb24gVVNBIn0) 
 
@@ -28,6 +28,9 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 
 
 ```
-https://github.com/diegoppz/senacJS/blob/main/arqsp/Anima%C3%A7%C3%A3oMITCODE2.gif
+
+<p align="center">
+  <img src="https://github.com/diegoppz/senacJS/blob/main/arqsp/Anima%C3%A7%C3%A3oMITCODE2.gif">
+</p>
 
 </details>
