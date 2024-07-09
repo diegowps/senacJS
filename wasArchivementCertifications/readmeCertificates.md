@@ -22,12 +22,14 @@ I just did the #HourOfCode - check it out! (Thanks @BillGates for supporting @co
 Learn the basic concepts of Computer Science with drag and drop programming. This is a game-like, self-directed tutorial starring video lectures by Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Learn repeat-loops, conditionals, and basic algorithms. Available in 37 languages.
 [Program Content](https://studio.code.org/s/hourofcode/lessons/1)
 
+
 | Primeiro cabeçalho | Segundo cabeçalho |
-| — — — — — — — — — — | — — — — — — — — — — |
+| — — — — — — — — —  | — — — — — — — — — |
 | Célula de conteúdo | Célula de conteúdo |
 | Célula de conteúdo | Célula de conteúdo |
 
-## - [X] (16) FlappyBird game
+
+## (16) FlappyBird game
 [FlappyBird Game Project](https://studio.code.org/c/2262938109)
 Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #FlappyCode
 
@@ -53,7 +55,7 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 
-![image](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/snclogooud01.png.jpg)
+![image](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/snclogominiaturesblkp04.png?raw=true)
 
 
 </details>
