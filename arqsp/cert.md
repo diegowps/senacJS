@@ -11,10 +11,10 @@ I just did the #HourOfCode - check it out! (Thanks @BillGates for supporting @co
 [Certificate Validator](https://studio.code.org/certificates/eyJuYW1lIjoiRGllZ28gVW1iZWxpbm8iLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbmZvc3lzIEZvdW5kYXRpb24gVVNBIn0) 
 
 ## (3) Write your first computer program "Classic Maze" 
-  [How to plan your Hour of Code](https://hourofcode.com/br/how-to)
-  [Curriculum](https://curriculum.code.org/pt-br/hoc/plugged/9/)
-  [Init project](https://studio.code.org/hoc/1)
-  [Continuous](https://studio.code.org/s/course2)
+>  [How to plan your Hour of Code](https://hourofcode.com/br/how-to)
+>  [Curriculum](https://curriculum.code.org/pt-br/hoc/plugged/9/)
+>  [Init project](https://studio.code.org/hoc/1)
+>  [Continuous](https://studio.code.org/s/course2)
 
 Learn the basic concepts of Computer Science with drag and drop programming. This is a game-like, self-directed tutorial starring video lectures by Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Learn repeat-loops, conditionals, and basic algorithms. Available in 37 languages.
 [Program Content](https://studio.code.org/s/hourofcode/lessons/1)
@@ -32,10 +32,10 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 
 ### Others code learn
 
-[]  [codeCademy](https://www.codecademy.com/learn/welcome-to-codecademy)
-[]  [processing](https://processing.org/)
-[]  [calculate](https://education.ti.com/en/activities/ti-codes)
-[]  [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
+[ ]  [codeCademy](https://www.codecademy.com/learn/welcome-to-codecademy)
+[  ]  [processing](https://processing.org/)
+[   ]  [calculate](https://education.ti.com/en/activities/ti-codes)
+[x]  [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
 
 # Author
 | [<img src="https://avatars.githubusercontent.com/u/54283429?v=4&size=64" width=115><br><sub>Diego Umbelino</sub>](https://github.com/diegoppz) |
