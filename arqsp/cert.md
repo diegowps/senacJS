@@ -23,22 +23,22 @@ Learn the basic concepts of Computer Science with drag and drop programming. Thi
 [FlappyBird Game Project](https://studio.code.org/c/2262938109)
 Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #FlappyCode
 
+<p align="center">
+  <img src="https://github.com/diegoppz/senacJS/blob/main/arqsp/Anima%C3%A7%C3%A3oMITCODE2.gif">
+</p>
+
 [emit](https://studio.code.org/congrats?i=_1_e6461769195c8429bd90735f7e2780ec&s=ZmxhcHB5)
 
 
 ### Others code learn
 
-  [codeCademy](https://www.codecademy.com/learn/welcome-to-codecademy)
-  [processing](https://processing.org/)
-  [calculate](https://education.ti.com/en/activities/ti-codes)
-  [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
+[]  [codeCademy](https://www.codecademy.com/learn/welcome-to-codecademy)
+[]  [processing](https://processing.org/)
+[]  [calculate](https://education.ti.com/en/activities/ti-codes)
+[]  [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
 
-  # Author
+# Author
 | [<img src="https://avatars.githubusercontent.com/u/54283429?v=4&size=64" width=115><br><sub>Diego Umbelino</sub>](https://github.com/diegoppz) |
 | :---: |
-
-<p align="center">
-  <img src="https://github.com/diegoppz/senacJS/blob/main/arqsp/Anima%C3%A7%C3%A3oMITCODE2.gif">
-</p>
 
 </details>
