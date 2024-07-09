@@ -1,5 +1,8 @@
-> [!NOTES]
+> [!NOTE]
 > The certificates listed are part of extracurricular activities in order to increase the fluency and learning capacity of the students of the free course ["Assistant in the Development of Computational Applications"](https://www.sp.senac.br/cursos-livres/curso-de-assistente-de-desenvolvimento-de-aplicativos-computacionais) at Senac Tatuapé Cel. American Louis (620 hours).
+
+![image](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/snclogominiaturesblkp04.png?raw=true)
+![image](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/snclogominiaturesblkp04.png?raw=true)
 
 # Hour Of Code.org
 I just did the #HourOfCode - check it out! (Thanks @BillGates for supporting @codeorg) 
@@ -54,8 +57,6 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-
-![image](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/snclogominiaturesblkp04.png?raw=true)
 
 
 </details>
