@@ -45,7 +45,7 @@ I just did the #HourOfCode - check it out! (Thanks @BillGates and @Microsoft for
 </p>
 </details>
 
-### Description course 
+#### Description course 
 
 <details>
   <summary>Write your first computer program "Classic Maze" (3)</summary>
@@ -61,7 +61,7 @@ Learn the basic concepts of Computer Science with drag and drop programming. Thi
 
 | <img src="https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180045.png" alt="Mid 01" /> | ![image2](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180125.png) |
 |----------|----------|
-| ![image3](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180230.png) | ![Imagem 4](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180327.png) |
+| ![image3](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180230.png) | ![Image4](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180327.png) |
 
 </details>
 
@@ -93,7 +93,7 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
   <summary>Open Indice</summary>
 
 * [Certificado Hora do Código]()
-* []()
+* [Certificado Calculadoras]()
 
 </details>
 
