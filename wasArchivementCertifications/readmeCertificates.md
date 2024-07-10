@@ -3,7 +3,7 @@
 > [!NOTE]
 > The certificates listed are part of extracurricular activities in order to increase the fluency and learning capacity of the students of the free course ["Assistant in the Development of Computational Applications"](https://www.sp.senac.br/cursos-livres/curso-de-assistente-de-desenvolvimento-de-aplicativos-computacionais) [^1] at [Senac Tatuapé Cel. Luis Americano](https://www.sp.senac.br/senac-tatuape-cel-luis-americano) .
 
-[^1]: Integra o corpo docente o solicitante Profº José de Assis, responsável por projetos como o [Robótica na prática](https://roboticapratica.com.br/) e o canal de aprendizagem [Profº José de Assis](https://joseassis.com.br/index.html)
+[^1]: Integra o corpo docente o solicitante [Profº José de Assis](https://github.com/professorjosedeassis/), responsável por projetos como o [Robótica na prática](https://roboticapratica.com.br/) e o canal de aprendizagem [Profº José de Assis no youtube](https://joseassis.com.br/index.html)
 
 ## Indice
 * [Certificado Hora do Código]()
@@ -39,7 +39,7 @@ Learn the basic concepts of Computer Science with drag and drop programming. Thi
 | Célula de conteúdo | Célula de conteúdo |
 | Célula de conteúdo | Célula de conteúdo |
 
-https://private-user-images.githubusercontent.com/54283429/347226936-a4f39529-aa73-48c5-8c3f-6621c17e8c2a.png
+![Teste](https://private-user-images.githubusercontent.com/54283429/347226936-a4f39529-aa73-48c5-8c3f-6621c17e8c2a.png)
 
 ### (16) FlappyBird game
 [FlappyBird Game Project](https://studio.code.org/c/2262938109)
