@@ -21,11 +21,11 @@
 
 ## Senac
 
-<p align="center">
+<h4 align="center">
 
 ![imagesenac](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/snclogominiaturesblkp04.png?raw=true)
 
-</p>  
+</h4>  
 
 ## Hour Of Code.org
 
@@ -36,7 +36,7 @@
 </h4>
 
 <details>
-  <summary>Open My Certificate "Hour Of Code" in here</summary>
+  <summary> **Open My Certificate "Hour Of Code" in here** </summary>
 
 <p align="center">
 
@@ -49,8 +49,7 @@ I just did the #HourOfCode - check it out! (Thanks @BillGates and @Microsoft for
 </p>
 </details>
 
-
-### (3) Write your first computer program "Classic Maze"
+### Write your first computer program "Classic Maze" (3)
 
 <details>
   <summary>About Project Hour Of Code</summary>
