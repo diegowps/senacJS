@@ -95,19 +95,19 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 - [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
 - [beyond](https://hourofcode.com/br/beyond)
 
-<p align="center">
-
 </details>
+
+<p align="center">
 
 ## Author
 | [<img src="https://avatars.githubusercontent.com/u/54283429?v=4&size=64" width=115><br><sub>Diego Umbelino</sub>](https://github.com/diegoppz) |
 | :---: |
 
+![GitHub Org's stars](https://img.shields.io/github/stars/diegoppz?style=social)
+
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-
-![GitHub Org's stars](https://img.shields.io/github/stars/diegoppz?style=social)
 
 </p>
 
