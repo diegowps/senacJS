@@ -68,7 +68,7 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 
   I just did the #HourOfCode - check it out! (Thanks @BillGates and @Microsoft for supporting @codeorg) 
 
-> [!IMPORTAT]
+> [!IMPORTANT]
 > This repository is used for educational purposes and practice testing only.
 
 <h4 align="center">    
