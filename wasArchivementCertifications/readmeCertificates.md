@@ -19,12 +19,12 @@
 
 </details>
 
-<h4 align="center">  
+<h1 align="center">  
 
 ## Senac
 ![imagesenac](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/snclogominiaturesblkp04.png?raw=true)
 
-</h4>
+</h1>
 
 <h4 align="center">  
 
