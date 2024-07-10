@@ -23,6 +23,7 @@
 
 ## Senac
 ![imagesenac](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/snclogominiaturesblkp04.png?raw=true)
+
 </h4>
 
 <h4 align="center">  
