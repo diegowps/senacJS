@@ -16,6 +16,7 @@
 
 * [Certificado Hora do Código]()
 * []()
+
 </details>
 
 <h4 align="center">  
@@ -23,10 +24,12 @@
 ## Senac
 ![imagesenac](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/snclogominiaturesblkp04.png?raw=true)
 </h4>
+
 <h4 align="center">  
 
 ## Hour Of Code.org
 ![imagecode](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/hoclogoblk02.png)
+
 </h4>
 
 <details>
@@ -37,19 +40,23 @@
     I just did the #HourOfCode - check it out! (Thanks @BillGates and @Microsoft for supporting @codeorg) 
 </p>
 
-[Certificate Validator](https://studio.code.org/certificates/eyJuYW1lIjoiRGllZ28gVW1iZWxpbm8iLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbmZvc3lzIEZvdW5kYXRpb24gVVNBIn0) 
+[Certificate Validator Code.org](https://studio.code.org/certificates/eyJuYW1lIjoiRGllZ28gVW1iZWxpbm8iLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbmZvc3lzIEZvdW5kYXRpb24gVVNBIn0) 
 
 </details>
 
 
-### (3) Write your first computer program "Classic Maze" 
->  [How to plan your Hour of Code](https://hourofcode.com/br/how-to)
-- [Curriculum](https://curriculum.code.org/pt-br/hoc/plugged/9/)
-- [Init project](https://studio.code.org/hoc/1)
-- [Continuous](https://studio.code.org/s/course2)
+### (3) Write your first computer program "Classic Maze"
+
+<details>
+  <summary>About Project Hour Of Code</summary>
 
 Learn the basic concepts of Computer Science with drag and drop programming. This is a game-like, self-directed tutorial starring video lectures by Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Learn repeat-loops, conditionals, and basic algorithms. Available in 37 languages.
 [Program Content](https://studio.code.org/s/hourofcode/lessons/1)
+
+- [How to plan your Hour of Code](https://hourofcode.com/br/how-to)
+- [Curriculum](https://curriculum.code.org/pt-br/hoc/plugged/9/)
+- [Init project](https://studio.code.org/hoc/1)
+- [Continuous](https://studio.code.org/s/course2)
 
 
 | Primeiro cabeçalho | Segundo cabeçalho |
@@ -57,10 +64,14 @@ Learn the basic concepts of Computer Science with drag and drop programming. Thi
 | Célula de conteúdo | Célula de conteúdo |
 | Célula de conteúdo | Célula de conteúdo |
 
-<img src="https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180045.png" alt="Passo 01">
 
-### (16) FlappyBird game
+<img src="https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180045.png" alt="Passo 01" />
+
+</details>
+
+### FlappyBird game (16)
 [FlappyBird Game Project](https://studio.code.org/c/2262938109)
+
 Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #FlappyCode
 
 <p align="center">
