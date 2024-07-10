@@ -1,14 +1,15 @@
-> [!NOTE]
-> The certificates listed are part of extracurricular activities in order to increase the fluency and learning capacity of the students of the free course ["Assistant in the Development of Computational Applications"](https://www.sp.senac.br/cursos-livres/curso-de-assistente-de-desenvolvimento-de-aplicativos-computacionais) (620 hours) at [Senac Tatuapé Cel. American Louis](https://www.sp.senac.br/senac-tatuape-cel-luis-americano) .
+# Certificates of Practical Extracurricular Activities
 
+> [!NOTE]
+> The certificates listed are part of extracurricular activities in order to increase the fluency and learning capacity of the students of the free course ["Assistant in the Development of Computational Applications"](https://www.sp.senac.br/cursos-livres/curso-de-assistente-de-desenvolvimento-de-aplicativos-computacionais) at [Senac Tatuapé Cel. Luis Americano](https://www.sp.senac.br/senac-tatuape-cel-luis-americano) .
+
+# Senac
 ![imagesenac](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/snclogominiaturesblkp04.png?raw=true)
+
 
 # Hour Of Code.org
 
 ![imagecode](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/hoclogoblk02.png)
-
-  I just did the #HourOfCode - check it out! (Thanks @BillGates and @Microsoft for supporting @codeorg) 
-
 
 <details>
   <summary>Open My Certificate "Hour Of Code" in here</summary>
@@ -27,6 +28,11 @@
 
 Learn the basic concepts of Computer Science with drag and drop programming. This is a game-like, self-directed tutorial starring video lectures by Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Learn repeat-loops, conditionals, and basic algorithms. Available in 37 languages.
 [Program Content](https://studio.code.org/s/hourofcode/lessons/1)
+
+| Primeiro cabeçalho | Segundo cabeçalho |
+| — — — — — — — — — — | — — — — — — — — — — |
+| Célula de conteúdo | Célula de conteúdo |
+| Célula de conteúdo | Célula de conteúdo |
 
 
 
@@ -55,8 +61,14 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 
+![GitHub Org's stars](https://img.shields.io/github/stars/diegoppz?style=social)
 
 </details>
+
+  I just did the #HourOfCode - check it out! (Thanks @BillGates and @Microsoft for supporting @codeorg) 
+
+> [!NOTE]
+> The
 
 <h4 align="center">    
  :construction:  Projeto em construção  :construction:
