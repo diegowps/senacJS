@@ -15,30 +15,25 @@
 
 </h4>
 
+<details>
+  <summary> Open certificate "Hour Of Code" </summary>
+
 <h4 align="center">
 
 ![imagesenac](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/snclogominiaturesblkp04.png?raw=true)
 </h4>  
 
-### Hour Of Code.org
-
-<h4 align="center">
-
-![imagecode](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/hoclogoblk02.png)
-</h4>
-
-### Indice
-
-<details>
-  <summary>Open Indice</summary>
-
-* [Certificado Hora do Código]()
-* []()
-
 </details>
+
+### Hour Of Code.org
 
 <details>
   <summary> Open certificate "Hour Of Code" </summary>
+
+  <h4 align="center">
+
+![imagecode](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/hoclogoblk02.png)
+</h4>
 
 <p align="center">
 
@@ -94,6 +89,16 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 - [calculate](https://education.ti.com/en/activities/ti-codes)
 - [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
 - [beyond](https://hourofcode.com/br/beyond)
+
+</details>
+
+### Indice
+
+<details>
+  <summary>Open Indice</summary>
+
+* [Certificado Hora do Código]()
+* []()
 
 </details>
 
