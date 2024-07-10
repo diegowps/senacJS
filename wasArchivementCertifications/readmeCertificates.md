@@ -39,7 +39,7 @@ Learn the basic concepts of Computer Science with drag and drop programming. Thi
 | Célula de conteúdo | Célula de conteúdo |
 | Célula de conteúdo | Célula de conteúdo |
 
-<img src="https://private-user-images.githubusercontent.com/54283429/347226936-a4f39529-aa73-48c5-8c3f-6621c17e8c2a.png" alt="Passo 01">
+<img src="https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180045.png?raw=true" alt="Passo 01">
 
 ### (16) FlappyBird game
 [FlappyBird Game Project](https://studio.code.org/c/2262938109)
@@ -72,7 +72,7 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 
   I just did the #HourOfCode - check it out! (Thanks @BillGates and @Microsoft for supporting @codeorg) 
 
-  
+
 
 > [!IMPORTANT]
 > This repository is used for educational purposes and practice testing only.
