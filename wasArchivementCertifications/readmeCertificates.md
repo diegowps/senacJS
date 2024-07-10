@@ -59,7 +59,7 @@ Learn the basic concepts of Computer Science with drag and drop programming. Thi
 - [Continuous](https://studio.code.org/s/course2)
 
 
-| <img src="https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180045.png" alt="Mid 01" /> | Imagem 2 |
+| <img src="https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180045.png" alt="Mid 01" /> | ![image2](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180125.png) |
 |----------|----------|
 | Imagem 3 | Imagem 4 |
 | Imagem 5 | Imagem 6 |
