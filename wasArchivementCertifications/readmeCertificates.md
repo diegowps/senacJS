@@ -68,9 +68,11 @@ Learn the basic concepts of Computer Science with drag and drop programming. Thi
 <details>
   <summary>Project Flappy bird game (16)</summary>
 
-[FlappyBird Game Project](https://studio.code.org/c/2262938109)
+Confira o jogo de Flappy que fiz clicando aqui >> [FlappyBird Game Project](https://studio.code.org/c/2262938109)
 
-Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #FlappyCode
+Esta é a etapa 16 da "Hora do código", neste desafio, você aprende a criar com blocos lógicos o FlappyBird, quer ver como ficou?
+
+(Obrigado @microsoft por apoiar @codeorg) #FlappyCode
 
 <p align="center">
   <img src="https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/badgesAndShields/wasFlappyBirdTestAnimation.gif">
@@ -78,7 +80,7 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 
 [my certificate of conclude project](https://studio.code.org/congrats?i=_1_e6461769195c8429bd90735f7e2780ec&s=ZmxhcHB5)
 
-##### Others code learn
+##### Beyond Code Learn
 - [codeCademy](https://www.codecademy.com/learn/welcome-to-codecademy)
 - [processing](https://processing.org/)
 - [calculate](https://education.ti.com/en/activities/ti-codes)
@@ -101,7 +103,7 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 
 <h4 align="center">
 
-| [<img src="https://avatars.githubusercontent.com/u/54283429?v=4&size=64" width=115><br><sub>Diego Umbelino</sub>](https://github.com/diegoppz) |
+| [<img src="https://avatars.githubusercontent.com/u/54283429?v=4&size=64" width=75><br><sub>Diego Umbelino</sub>](https://github.com/diegoppz) |
 | :---: | 
 
 </h4>
