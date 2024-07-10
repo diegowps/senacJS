@@ -16,7 +16,7 @@
 </h4>
 
 <details>
-  <summary> Open certificate "Hour Of Code" </summary>
+  <summary> Open certificate "Senac" </summary>
 
 <h4 align="center">
 
@@ -45,10 +45,10 @@ I just did the #HourOfCode - check it out! (Thanks @BillGates and @Microsoft for
 </p>
 </details>
 
-##### Write your first computer program "Classic Maze" (3)
+### Description course 
 
 <details>
-  <summary>About Project Hour Of Code</summary>
+  <summary>Write your first computer program "Classic Maze" (3)</summary>
 
 Learn the basic concepts of Computer Science with drag and drop programming. This is a game-like, self-directed tutorial starring video lectures by Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Learn repeat-loops, conditionals, and basic algorithms. Available in 37 languages.
 [Program Content](https://studio.code.org/s/hourofcode/lessons/1)
@@ -64,14 +64,12 @@ Learn the basic concepts of Computer Science with drag and drop programming. Thi
 | Célula de conteúdo | Célula de conteúdo |
 | Célula de conteúdo | Célula de conteúdo |
 
-<img src="https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180045.png" alt="Passo 01" />
+<img src="https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180045.png" alt="Mid 01" />
 
 </details>
 
-##### FlappyBird game (16)
-
 <details>
-  <summary>Project Flappy bird</summary>
+  <summary>Project Flappy bird game (16)</summary>
 
 [FlappyBird Game Project](https://studio.code.org/c/2262938109)
 
@@ -108,14 +106,13 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 
 | [<img src="https://avatars.githubusercontent.com/u/54283429?v=4&size=64" width=115><br><sub>Diego Umbelino</sub>](https://github.com/diegoppz) |
 | :---: |
-
-![GitHub Org's stars](https://img.shields.io/github/stars/diegoppz?style=social)
-
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 
 </p>
+
+![GitHub Org's stars](https://img.shields.io/github/stars/diegoppz?style=social)
 
 > [!IMPORTANT]
 > This repository is used for educational purposes and practice testing only.
