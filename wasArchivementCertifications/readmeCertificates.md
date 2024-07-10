@@ -106,13 +106,13 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 
 | [<img src="https://avatars.githubusercontent.com/u/54283429?v=4&size=64" width=115><br><sub>Diego Umbelino</sub>](https://github.com/diegoppz) |
 | :---: |
+| 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+|
 
 </p>
-
-![GitHub Org's stars](https://img.shields.io/github/stars/diegoppz?style=social)
 
 > [!IMPORTANT]
 > This repository is used for educational purposes and practice testing only.
