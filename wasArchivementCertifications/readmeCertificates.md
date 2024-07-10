@@ -6,7 +6,8 @@
 [^1]: Integra o corpo docente o solicitante Profº José de Assis, responsável por projetos como o [Robótica na prática](https://roboticapratica.com.br/) e o canal de aprendizagem [Profº José de Assis](https://joseassis.com.br/index.html)
 
 ## Indice
-* 
+* [Certificado Hora do Código]()
+* []()
 
 ## Senac
 ![imagesenac](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/snclogominiaturesblkp04.png?raw=true)
@@ -25,9 +26,9 @@
 
 ### (3) Write your first computer program "Classic Maze" 
 >  [How to plan your Hour of Code](https://hourofcode.com/br/how-to)
->  [Curriculum](https://curriculum.code.org/pt-br/hoc/plugged/9/)
->  [Init project](https://studio.code.org/hoc/1)
->  [Continuous](https://studio.code.org/s/course2)
+- [Curriculum](https://curriculum.code.org/pt-br/hoc/plugged/9/)
+- [Init project](https://studio.code.org/hoc/1)
+- [Continuous](https://studio.code.org/s/course2)
 
 Learn the basic concepts of Computer Science with drag and drop programming. This is a game-like, self-directed tutorial starring video lectures by Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Learn repeat-loops, conditionals, and basic algorithms. Available in 37 languages.
 [Program Content](https://studio.code.org/s/hourofcode/lessons/1)
@@ -38,7 +39,7 @@ Learn the basic concepts of Computer Science with drag and drop programming. Thi
 | Célula de conteúdo | Célula de conteúdo |
 | Célula de conteúdo | Célula de conteúdo |
 
-
+https://private-user-images.githubusercontent.com/54283429/347226936-a4f39529-aa73-48c5-8c3f-6621c17e8c2a.png
 
 ### (16) FlappyBird game
 [FlappyBird Game Project](https://studio.code.org/c/2262938109)
@@ -60,6 +61,7 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 ## Author
 | [<img src="https://avatars.githubusercontent.com/u/54283429?v=4&size=64" width=115><br><sub>Diego Umbelino</sub>](https://github.com/diegoppz) |
 | :---: |
+
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
