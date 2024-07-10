@@ -44,7 +44,7 @@
 
 [Certificate Validator Code.org](https://studio.code.org/certificates/eyJuYW1lIjoiRGllZ28gVW1iZWxpbm8iLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbmZvc3lzIEZvdW5kYXRpb24gVVNBIn0)
 
-    I just did the #HourOfCode - check it out! (Thanks @BillGates and @Microsoft for supporting @codeorg)
+I just did the #HourOfCode - check it out! (Thanks @BillGates and @Microsoft for supporting @codeorg)
 
 </p>
 </details>
@@ -65,16 +65,19 @@ Learn the basic concepts of Computer Science with drag and drop programming. Thi
 
 
 | Primeiro cabeçalho | Segundo cabeçalho |
-| — — — — — — — — — — | — — — — — — — — — — |
+| — — — — — — — — — | — — — — — — — — — |
 | Célula de conteúdo | Célula de conteúdo |
 | Célula de conteúdo | Célula de conteúdo |
-
 
 <img src="https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180045.png" alt="Passo 01" />
 
 </details>
 
 ### FlappyBird game (16)
+
+<details>
+  <summary>Open Indice</summary>
+
 [FlappyBird Game Project](https://studio.code.org/c/2262938109)
 
 Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #FlappyCode
@@ -93,6 +96,8 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 - [beyond](https://hourofcode.com/br/beyond)
 
 <p align="center">
+
+</details>
 
 ## Author
 | [<img src="https://avatars.githubusercontent.com/u/54283429?v=4&size=64" width=115><br><sub>Diego Umbelino</sub>](https://github.com/diegoppz) |
