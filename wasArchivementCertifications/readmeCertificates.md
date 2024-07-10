@@ -101,12 +101,12 @@ Esta é a etapa 16 da "Hora do código", neste desafio, você aprende a criar co
 
 ### Author
 
-<h4 align="center">
+<div align="center">
 
 | [<img src="https://avatars.githubusercontent.com/u/54283429?v=4&size=64" width=75><br><sub>Diego Umbelino</sub>](https://github.com/diegoppz) |
 | :---: | 
 
-</h4>
+</div>
 
 <p align="center">
 
