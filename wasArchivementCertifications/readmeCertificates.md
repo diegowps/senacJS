@@ -33,7 +33,9 @@
 ## Hour Of Code.org
 
 <h4 align="center">
+
 ![imagecode](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/hoclogoblk02.png)
+
 </h4>
 
 <details>
@@ -91,6 +93,8 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 - [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
 - [beyond](https://hourofcode.com/br/beyond)
 
+<h4 align="center">
+
 ## Author
 | [<img src="https://avatars.githubusercontent.com/u/54283429?v=4&size=64" width=115><br><sub>Diego Umbelino</sub>](https://github.com/diegoppz) |
 | :---: |
@@ -101,6 +105,7 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/diegoppz?style=social)
 
+</h4>
 
 > [!IMPORTANT]
 > This repository is used for educational purposes and practice testing only.
