@@ -19,12 +19,12 @@
 
 </details>
 
-<h1 align="center">  
+<p align="center">  
 
 ## Senac
 ![imagesenac](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/snclogominiaturesblkp04.png?raw=true)
 
-</h1>
+</p>
 
 <h4 align="center">  
 
@@ -39,9 +39,11 @@
 <p align="center">
   <img src="https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/badgesAndShields/wasCompleteHourOfCode-eyJuYW1lIjoiRGllZ28gVW1iZWxpbm8iLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbmZvc3lzIEZvdW5kYXRpb24gVVNBIn0%3D.jpg">
     I just did the #HourOfCode - check it out! (Thanks @BillGates and @Microsoft for supporting @codeorg) 
+  
+  [Certificate Validator Code.org](https://studio.code.org/certificates/eyJuYW1lIjoiRGllZ28gVW1iZWxpbm8iLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbmZvc3lzIEZvdW5kYXRpb24gVVNBIn0) 
+
 </p>
 
-[Certificate Validator Code.org](https://studio.code.org/certificates/eyJuYW1lIjoiRGllZ28gVW1iZWxpbm8iLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbmZvc3lzIEZvdW5kYXRpb24gVVNBIn0) 
 
 </details>
 
