@@ -3,26 +3,44 @@
 > [!NOTE]
 > The certificates listed are part of extracurricular activities in order to increase the fluency and learning capacity of the students of the free course ["Assistant in the Development of Computational Applications"](https://www.sp.senac.br/cursos-livres/curso-de-assistente-de-desenvolvimento-de-aplicativos-computacionais) [^1] at [Senac Tatuapé Cel. Luis Americano](https://www.sp.senac.br/senac-tatuape-cel-luis-americano) .
 
-[^1]: Integra o corpo docente o solicitante [Profº José de Assis](https://github.com/professorjosedeassis/), responsável por projetos como o [Robótica na prática](https://roboticapratica.com.br/) e o canal de aprendizagem [Profº José de Assis no youtube](https://joseassis.com.br/index.html)
+[^1]: [Profº José de Assis](https://github.com/professorjosedeassis/), é integrante do corpo docente no Senac, ministra as unidades curriculares do curso lógica e algoritmo com javaScript, responsável por projetos como o [Robótica na prática](https://roboticapratica.com.br/) e o canal de aprendizagem [Profº José de Assis no youtube](https://joseassis.com.br/index.html).
+
+<h4 align="center">    
+ :construction:  Work in progress  :construction:
+</h4>
 
 ## Indice
+
+<details>
+  <summary>Open Indice</summary>
+
 * [Certificado Hora do Código]()
 * []()
+</details>
+
+<h4 align="center">  
 
 ## Senac
 ![imagesenac](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/snclogominiaturesblkp04.png?raw=true)
+</h4>
+<h4 align="center">  
 
 ## Hour Of Code.org
 ![imagecode](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/hoclogoblk02.png)
+</h4>
 
 <details>
   <summary>Open My Certificate "Hour Of Code" in here</summary>
 
 <p align="center">
   <img src="https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/badgesAndShields/wasCompleteHourOfCode-eyJuYW1lIjoiRGllZ28gVW1iZWxpbm8iLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbmZvc3lzIEZvdW5kYXRpb24gVVNBIn0%3D.jpg">
+    I just did the #HourOfCode - check it out! (Thanks @BillGates and @Microsoft for supporting @codeorg) 
 </p>
 
 [Certificate Validator](https://studio.code.org/certificates/eyJuYW1lIjoiRGllZ28gVW1iZWxpbm8iLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbmZvc3lzIEZvdW5kYXRpb24gVVNBIn0) 
+
+</details>
+
 
 ### (3) Write your first computer program "Classic Maze" 
 >  [How to plan your Hour of Code](https://hourofcode.com/br/how-to)
@@ -39,7 +57,7 @@ Learn the basic concepts of Computer Science with drag and drop programming. Thi
 | Célula de conteúdo | Célula de conteúdo |
 | Célula de conteúdo | Célula de conteúdo |
 
-<img src="https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180045.png?raw=true" alt="Passo 01">
+<img src="https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180045.png" alt="Passo 01">
 
 ### (16) FlappyBird game
 [FlappyBird Game Project](https://studio.code.org/c/2262938109)
@@ -70,13 +88,11 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 
 </details>
 
-  I just did the #HourOfCode - check it out! (Thanks @BillGates and @Microsoft for supporting @codeorg) 
+
 
 
 
 > [!IMPORTANT]
 > This repository is used for educational purposes and practice testing only.
 
-<h4 align="center">    
- :construction:  Projeto em construção  :construction:
-</h4>
+
