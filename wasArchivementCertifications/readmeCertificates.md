@@ -19,7 +19,10 @@
 
 </details>
 
+<h4 align="center">
+
 ## Senac
+</h4>
 
 <h4 align="center">
 
@@ -36,7 +39,7 @@
 </h4>
 
 <details>
-  <summary> **Open My Certificate "Hour Of Code" in here** </summary>
+  <summary> Open certificate "Hour Of Code" </summary>
 
 <p align="center">
 
