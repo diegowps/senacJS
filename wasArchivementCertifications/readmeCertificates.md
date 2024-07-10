@@ -9,7 +9,7 @@
  :construction:  Work in progress  :construction:
 </h4>
 
-## Indice
+### Indice
 
 <details>
   <summary>Open Indice</summary>
@@ -21,21 +21,20 @@
 
 <h4 align="center">
 
-## Senac
+### Senac
+
 </h4>
 
 <h4 align="center">
 
 ![imagesenac](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/snclogominiaturesblkp04.png?raw=true)
-
 </h4>  
 
-## Hour Of Code.org
+### Hour Of Code.org
 
 <h4 align="center">
 
 ![imagecode](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/hoclogoblk02.png)
-
 </h4>
 
 <details>
@@ -48,11 +47,10 @@
 [Certificate Validator Code.org](https://studio.code.org/certificates/eyJuYW1lIjoiRGllZ28gVW1iZWxpbm8iLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbmZvc3lzIEZvdW5kYXRpb24gVVNBIn0)
 
 I just did the #HourOfCode - check it out! (Thanks @BillGates and @Microsoft for supporting @codeorg)
-
 </p>
 </details>
 
-### Write your first computer program "Classic Maze" (3)
+##### Write your first computer program "Classic Maze" (3)
 
 <details>
   <summary>About Project Hour Of Code</summary>
@@ -75,7 +73,7 @@ Learn the basic concepts of Computer Science with drag and drop programming. Thi
 
 </details>
 
-### FlappyBird game (16)
+##### FlappyBird game (16)
 
 <details>
   <summary>Open Indice</summary>
@@ -90,7 +88,7 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 
 [my certificate of conclude project](https://studio.code.org/congrats?i=_1_e6461769195c8429bd90735f7e2780ec&s=ZmxhcHB5)
 
-### Others code learn
+##### Others code learn
 - [codeCademy](https://www.codecademy.com/learn/welcome-to-codecademy)
 - [processing](https://processing.org/)
 - [calculate](https://education.ti.com/en/activities/ti-codes)
@@ -99,9 +97,10 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 
 </details>
 
+### Author
+
 <p align="center">
 
-## Author
 | [<img src="https://avatars.githubusercontent.com/u/54283429?v=4&size=64" width=115><br><sub>Diego Umbelino</sub>](https://github.com/diegoppz) |
 | :---: |
 
@@ -115,5 +114,3 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 
 > [!IMPORTANT]
 > This repository is used for educational purposes and practice testing only.
-
-
