@@ -59,10 +59,11 @@ Learn the basic concepts of Computer Science with drag and drop programming. Thi
 - [Continuous](https://studio.code.org/s/course2)
 
 
-| Primeiro cabeçalho | Segundo cabeçalho |
-| — — — — — — — — — | — — — — — — — — — |
-| Célula de conteúdo | Célula de conteúdo |
-| Célula de conteúdo | Célula de conteúdo |
+| Imagem 1 | Imagem 2 |
+|----------|----------|
+| Imagem 3 | Imagem 4 |
+| Imagem 5 | Imagem 6 |
+
 
 <img src="https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180045.png" alt="Mid 01" />
 
