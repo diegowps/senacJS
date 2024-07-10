@@ -102,12 +102,12 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 
 ### Author
 
-<p align="center">
+<h4 align="center">
 
 | [<img src="https://avatars.githubusercontent.com/u/54283429?v=4&size=64" width=115><br><sub>Diego Umbelino</sub>](https://github.com/diegoppz) |
 | :---: | 
 
-</p>
+</h4>
 
 <p align="center">
 
