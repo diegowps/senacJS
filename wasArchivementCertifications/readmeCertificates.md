@@ -19,18 +19,21 @@
 
 </details>
 
-<p align="center">  
+  
 
 ## Senac
+
+<p align="center">
+
 ![imagesenac](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/snclogominiaturesblkp04.png?raw=true)
 
 </p>
-
-<h4 align="center">  
+  
 
 ## Hour Of Code.org
-![imagecode](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/hoclogoblk02.png)
 
+<h4 align="center">
+![imagecode](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/hoclogoblk02.png)
 </h4>
 
 <details>
@@ -38,12 +41,10 @@
 
 <p align="center">
   <img src="https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/badgesAndShields/wasCompleteHourOfCode-eyJuYW1lIjoiRGllZ28gVW1iZWxpbm8iLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbmZvc3lzIEZvdW5kYXRpb24gVVNBIn0%3D.jpg">
-    I just did the #HourOfCode - check it out! (Thanks @BillGates and @Microsoft for supporting @codeorg) 
-  
+    I just did the #HourOfCode - check it out! (Thanks @BillGates and @Microsoft for supporting @codeorg)
+
   [Certificate Validator Code.org](https://studio.code.org/certificates/eyJuYW1lIjoiRGllZ28gVW1iZWxpbm8iLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbmZvc3lzIEZvdW5kYXRpb24gVVNBIn0) 
-
 </p>
-
 
 </details>
 
@@ -99,11 +100,6 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/diegoppz?style=social)
-
-</details>
-
-
-
 
 
 > [!IMPORTANT]
