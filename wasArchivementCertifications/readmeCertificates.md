@@ -1,14 +1,17 @@
 # Certificates of Practical Extracurricular Activities
 
 > [!NOTE]
-> The certificates listed are part of extracurricular activities in order to increase the fluency and learning capacity of the students of the free course ["Assistant in the Development of Computational Applications"](https://www.sp.senac.br/cursos-livres/curso-de-assistente-de-desenvolvimento-de-aplicativos-computacionais) at [Senac Tatuapé Cel. Luis Americano](https://www.sp.senac.br/senac-tatuape-cel-luis-americano) .
+> The certificates listed are part of extracurricular activities in order to increase the fluency and learning capacity of the students of the free course ["Assistant in the Development of Computational Applications"](https://www.sp.senac.br/cursos-livres/curso-de-assistente-de-desenvolvimento-de-aplicativos-computacionais) [^1] at [Senac Tatuapé Cel. Luis Americano](https://www.sp.senac.br/senac-tatuape-cel-luis-americano) .
 
-# Senac
+[^1]: Integra o corpo docente o solicitante Profº José de Assis, responsável por projetos como o [Robótica na prática](https://roboticapratica.com.br/) e o canal de aprendizagem [Profº José de Assis](https://joseassis.com.br/index.html)
+
+## Indice
+* 
+
+## Senac
 ![imagesenac](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/snclogominiaturesblkp04.png?raw=true)
 
-
-# Hour Of Code.org
-
+## Hour Of Code.org
 ![imagecode](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/hoclogoblk02.png)
 
 <details>
@@ -20,7 +23,7 @@
 
 [Certificate Validator](https://studio.code.org/certificates/eyJuYW1lIjoiRGllZ28gVW1iZWxpbm8iLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbmZvc3lzIEZvdW5kYXRpb24gVVNBIn0) 
 
-## (3) Write your first computer program "Classic Maze" 
+### (3) Write your first computer program "Classic Maze" 
 >  [How to plan your Hour of Code](https://hourofcode.com/br/how-to)
 >  [Curriculum](https://curriculum.code.org/pt-br/hoc/plugged/9/)
 >  [Init project](https://studio.code.org/hoc/1)
@@ -37,7 +40,7 @@ Learn the basic concepts of Computer Science with drag and drop programming. Thi
 
 
 
-## (16) FlappyBird game
+### (16) FlappyBird game
 [FlappyBird Game Project](https://studio.code.org/c/2262938109)
 Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #FlappyCode
 
@@ -48,14 +51,13 @@ Confira o jogo de Flappy que fiz. (Obrigado @microsoft por apoiar @codeorg) #Fla
 [my certificate of conclude project](https://studio.code.org/congrats?i=_1_e6461769195c8429bd90735f7e2780ec&s=ZmxhcHB5)
 
 ### Others code learn
-
 - [codeCademy](https://www.codecademy.com/learn/welcome-to-codecademy)
 - [processing](https://processing.org/)
 - [calculate](https://education.ti.com/en/activities/ti-codes)
 - [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
 - [beyond](https://hourofcode.com/br/beyond)
 
-# Author
+## Author
 | [<img src="https://avatars.githubusercontent.com/u/54283429?v=4&size=64" width=115><br><sub>Diego Umbelino</sub>](https://github.com/diegoppz) |
 | :---: |
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
