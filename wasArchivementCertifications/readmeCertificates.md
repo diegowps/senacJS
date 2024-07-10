@@ -9,16 +9,6 @@
  :construction:  Work in progress  :construction:
 </h4>
 
-### Indice
-
-<details>
-  <summary>Open Indice</summary>
-
-* [Certificado Hora do Código]()
-* []()
-
-</details>
-
 <h4 align="center">
 
 ### Senac
@@ -36,6 +26,16 @@
 
 ![imagecode](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/hoclogoblk02.png)
 </h4>
+
+### Indice
+
+<details>
+  <summary>Open Indice</summary>
+
+* [Certificado Hora do Código]()
+* []()
+
+</details>
 
 <details>
   <summary> Open certificate "Hour Of Code" </summary>
@@ -76,7 +76,7 @@ Learn the basic concepts of Computer Science with drag and drop programming. Thi
 ##### FlappyBird game (16)
 
 <details>
-  <summary>Open Indice</summary>
+  <summary>Project Flappy bird</summary>
 
 [FlappyBird Game Project](https://studio.code.org/c/2262938109)
 
