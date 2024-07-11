@@ -9,6 +9,7 @@
   <summary> Projetos e tarefas </summary>
 
 | Projeto | Entrega | DeadLine | Image |
+| ---- | ---- | ---- | ---- |
 | Calculadora de conversão | Conversão de Metros para Pés | 04/07/2024 | <> |
 | ---- | ---- | ---- | ---- |
 
