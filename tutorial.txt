@@ -1,4 +1,4 @@
-TURMA TI0323 Desenvolvimento
+TURMA TEI0323 Desenvolvimento
 
 
 Boas práticas na programação:
