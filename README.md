@@ -10,7 +10,7 @@
 
 | Projeto | Entrega | DeadLine | Imagem | Acesso ao projeto |
 | ---- | ---- | ---- | ---- | ---- |
-| Exercicíos de lógica e algoritmo | Conversão de Metros para Pés | 04/07/2024 | <> | j |
+| Exercicíos de lógica e algoritmo | [Conversão de Metros para Pés](https://github.com/diegoppz/senacJS/blob/main/exercicios/calculadoras/metros.js) | 04/07/2024 | <> | j |
 | ---- | ---- | ---- | ---- | ---- |
 
 </details>
