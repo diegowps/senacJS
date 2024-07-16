@@ -1,7 +1,7 @@
 # Senac
 
 > [!NOTE]
-> Este repositório armazena os conteúdos do curso de programação de aplicativos com finalidade educacional e todos os direitos são reservados
+> Este repositório armazena os conteúdos do curso de programação de aplicativos do Senac com finalidade acadêmica e todos os direitos são reservados
 
 ## Desenvolvendo aplicação para serviço de auto atendimento (javaScript, Node, Electron, Java, CSS, HTML)
 
@@ -24,7 +24,7 @@
 <details>
   <summary> Cronograma </summary>
 
-  | Sprint 1 | Data | UC | Atv | status | Obs |
+  | Sprint | Data | UC | Atv | status | Obs |
   | --- | --- | ----- | -------- | -- | ---- |
   |  | Data | UC | Atv | status | Obs |
   |  | Data | UC | Atv3 | status | Obs |
