@@ -10,7 +10,7 @@
 
 | Projeto | Entrega | DeadLine | Imagem | Acesso ao projeto |
 | ---- | ---- | ---- | ---- | ---- |
-| Exercicíos de lógica e algoritmo | [Conversão de Metros para Pés](https://github.com/diegoppz/senacJS/blob/main/exercicios/calculadoras/metros.js) | 04/07/2024 | <> | j |
+| Exercicíos de lógica e algoritmo | [Conversão de Metros para Pés](https://github.com/diegoppz/senacJS/blob/main/exercicios/calculadoras/metros.js) | 04/07/2024 | ![Image4](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180327.png) | [j]() |
 | ---- | ---- | ---- | ---- | ---- |
 
 </details>
