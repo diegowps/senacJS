@@ -24,6 +24,11 @@
 <details>
   <summary> Cronograma </summary>
 
+  | Sprint 1 | Data | UC | Atv | status | Obs |
+  |  | Data | UC | Atv | status | Obs |
+  |  | Data | UC | Atv3 | status | Obs |
+  | Sprint 2 | Data | UC | Atv4 | status | Obs |
+
   </details>
 
 <details>
