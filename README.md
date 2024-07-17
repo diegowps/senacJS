@@ -30,7 +30,7 @@
   | Sprint 2 | 01 a 05/07/24 | UC | Atv3 | status | Obs |
   | Sprint 3 | 08 a 26/07/24 | UC | Atv4 | status | Obs |
   | Sprint 4 | 29 a 09/08/24 | UC | Atv5 | status | Obs |
-  |   | 24/07/29 Segunda
+  |   | 24/07/29 Segunda |
 
   </details>
 
