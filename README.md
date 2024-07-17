@@ -24,11 +24,13 @@
 <details>
   <summary> Cronograma </summary>
 
-  | Sprint 1 | Data | UC | Atv | status | Obs |
+  | Sprint | Data | UC | Atv | status | Obs |
   | --- | --- | ----- | -------- | -- | ---- |
-  |  | Data | UC | Atv | status | Obs |
-  |  | Data | UC | Atv3 | status | Obs |
-  | Sprint 2 | Data | UC | Atv4 | status | Obs |
+  | Sprint 1 | 17 a 28/06/24 | UC | Atv | status | Obs |
+  | Sprint 2 | 01 a 05/07/24 | UC | Atv3 | status | Obs |
+  | Sprint 3 | 08 a 26/07/24 | UC | Atv4 | status | Obs |
+  | Sprint 4 | 29 a 09/08/24 | UC | Atv5 | status | Obs |
+  |   | 24/07/29 Segunda
 
   </details>
 
@@ -41,6 +43,9 @@
  :construction:  Work in progress  :construction:
 </h4>
 
+
+<details>
+  <summary> Conteúdo teste </summary>
 
 
 ## TEI-033 Assistente de desenvolvimento de aplicativo
@@ -60,3 +65,4 @@
 ###### 
 ### UC14 - Manipular e otimizar imagens vetoriais, bitmaps, gráficos - Sirlene Sanches
 
+  </details>
