@@ -41,7 +41,7 @@
 
 [Certificate Validator Code.org](https://studio.code.org/certificates/eyJuYW1lIjoiRGllZ28gVW1iZWxpbm8iLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbmZvc3lzIEZvdW5kYXRpb24gVVNBIn0)
 
-I just did the #HourOfCode - check it out! (Thanks @BillGates and @Microsoft for supporting @codeorg)
+I just did the #HourOfCode - check it out! (Thanks [@BillGates](https://www.gatesnotes.com/) and [@Microsoft](https://www.microsoft.com/pt-br) for supporting [@codeorg](https://code.org/) )
 </p>
 
 
