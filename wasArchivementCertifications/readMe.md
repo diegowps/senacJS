@@ -44,12 +44,6 @@
 I just did the #HourOfCode - check it out! (Thanks @BillGates and @Microsoft for supporting @codeorg)
 </p>
 
-<details>
-  <summary> Open certificate "Hour Of Code" </summary>
-  
-</details>
-
-</details>
 
 #### Description course 
 
@@ -94,6 +88,9 @@ Esta é a etapa 16 da "Hora do código", neste desafio, você aprende a criar co
 - [beyond](https://hourofcode.com/br/beyond)
 
 </details>
+
+</details>
+
 
 ### Indice
 
