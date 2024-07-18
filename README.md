@@ -1,7 +1,7 @@
 # Senac
 
 > [!NOTE]
-> Este repositório armazena os conteúdos do curso de programação de aplicativos com finalidade educacional e todos os direitos são reservados
+> Este repositório armazena os conteúdos do curso de programação de aplicativos do Senac com finalidade acadêmica e todos os direitos são reservados
 
 ## Desenvolvendo aplicação para serviço de auto atendimento (javaScript, Node, Electron, Java, CSS, HTML)
 
