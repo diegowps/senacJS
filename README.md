@@ -3,6 +3,8 @@
 > [!NOTE]
 > Este repositório armazena os conteúdos do curso de programação de aplicativos do Senac com finalidade acadêmica e todos os direitos são reservados
 
+
+
 ## Desenvolvendo aplicação para serviço de auto atendimento (javaScript, Node, Electron, Java, CSS, HTML)
 
 <details>
@@ -30,7 +32,11 @@
   | Sprint 2 | 01 a 05/07/24 | UC | Atv3 | status | Obs |
   | Sprint 3 | 08 a 26/07/24 | UC | Atv4 | status | Obs |
   | Sprint 4 | 29 a 09/08/24 | UC | Atv5 | status | Obs |
-  |   | 24/07/29 Segunda |
+  |   | 24-07-25 - quintafeira | UC | Atv | status | Obs |
+  |   | 24-07-26 - sextafeira | UC | Atv | status | Obs |
+  |   | 24-07-29 - segundafeira | UC | Atv | status | Obs |
+  |   | 24-07-30 - tercafeira | UC | Atv | status | Obs |
+
 
   </details>
 
