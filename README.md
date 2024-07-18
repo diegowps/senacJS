@@ -32,6 +32,7 @@
   | Sprint 2 | 01 a 05/07/24 | UC | Atv3 | status | Obs |
   | Sprint 3 | 08 a 26/07/24 | UC | Atv4 | status | Obs |
   | Sprint 4 | 29 a 09/08/24 | UC | Atv5 | status | Obs |
+  |   | 24-07-18 - THU - Thursday | UC | [Reverse String](https://coddy.tech/courses/30_days_of_logic_building_in_javascript/1_reverse_a_string) | Task01 Coddy.tech / Doc [Freecodecamp](https://coddy.tech/courses/30_days_of_logic_building_in_javascript/1_reverse_a_string) |
   |   | 24-07-25 - THU - Thursday | UC | Atv | status | Obs |
   |   | 24-07-26 - FRI - Friday | UC | Atv | status | Obs |
   |   | 24-07-29 - MON - Monday | UC | Atv | status | Obs |
