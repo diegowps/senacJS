@@ -1,7 +1,7 @@
 # Senac
 
 > [!NOTE]
-> Este repositório armazena os conteúdos do curso de programação de aplicativos do Senac com finalidade acadêmica e todos os direitos são reservados
+> Este repositório armazena os conteúdos do curso de programação de aplicativos do Senac com finalidade acadêmica e todos os direitos são reservados. :copyright:
 
 
 
@@ -37,6 +37,7 @@
   |   | 24-07-26 - FRI - Friday | UC | Atv | status | Obs |
   |   | 24-07-29 - MON - Monday | UC | Atv | status | Obs |
   |   | 24-07-30 - TUE - tuesday | UC | Atv | status | Obs |
+  | Sprint 26 | 26 a 06/06/2025 | UC | Atv | :alarm_clock: counting | Final sprint |
 
 
   </details>

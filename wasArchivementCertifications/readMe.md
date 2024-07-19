@@ -121,4 +121,4 @@ Esta é a etapa 16 da "Hora do código", neste desafio, você aprende a criar co
 </p>
 
 > [!IMPORTANT]
-> This repository is used for educational purposes and practice testing only.
+> This repository is used for educational purposes and practice testing only. :registered:
