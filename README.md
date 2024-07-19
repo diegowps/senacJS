@@ -37,7 +37,9 @@
   |   | 24-07-26 - FRI - Friday | UC | Atv | status | Obs |
   |   | 24-07-29 - MON - Monday | UC | Atv | status | Obs |
   |   | 24-07-30 - TUE - tuesday | UC | Atv | status | Obs |
+  | Sprint 25 | 12 a 25/05/2025 | UC | Atv | status | Obs |
   | Sprint 26 | 26 a 06/06/2025 | UC | Atv | :alarm_clock: counting | Final sprint |
+  |   | 25-06-06 | FRI - Friday | UC | Encerramento | :white_check_mark: Conclude | Prazo final |
 
 
   </details>
