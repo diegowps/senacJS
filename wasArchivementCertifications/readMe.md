@@ -50,6 +50,8 @@ I just did the #HourOfCode - check it out! (Thanks [@BillGates](https://www.gate
 <details>
   <summary>Write your first computer program "Classic Maze" (3)</summary>
 
+
+
 Learn the basic concepts of Computer Science with drag and drop programming. This is a game-like, self-directed tutorial starring video lectures by Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Learn repeat-loops, conditionals, and basic algorithms. Available in 37 languages.
 [Program Content](https://studio.code.org/s/hourofcode/lessons/1)
 
@@ -58,7 +60,8 @@ Learn the basic concepts of Computer Science with drag and drop programming. Thi
 - [Init project](https://studio.code.org/hoc/1)
 - [Continuous](https://studio.code.org/s/course2)
 
-##### Images at work
+##### Tasks
+
 | <img src="https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180045.png" alt="Mid 01" /> | ![image2](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180125.png) |
 |----------|----------|
 | ![image3](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180230.png) | ![Image4](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180327.png) |
@@ -68,17 +71,22 @@ Learn the basic concepts of Computer Science with drag and drop programming. Thi
 <details>
   <summary>Project Flappy bird game (16)</summary>
 
-Confira o jogo de Flappy que fiz clicando aqui >> [FlappyBird Game Project](https://studio.code.org/c/2262938109)
+<Language PT/BR>
 
-Esta é a etapa 16 da "Hora do código", neste desafio, você aprende a criar com blocos lógicos o FlappyBird, quer ver como ficou?
+Na etapa 16 do "code hour" você é desafiado a recriar o jogo Flappy Bird com blocos lógicos, um jogo eletrônico para dispositivos móveis de 2013 desenvolvido em Hanói pelo programador vietnamita Nguyễn Hà Đông e publicado pela .GEARS studios que alcançou grande popularidade em 2014 nas principais plataformas de download de aplicativos no mundo.
 
-(Obrigado @microsoft por apoiar @codeorg) #FlappyCode
+Confira aqui o jogo de Flappy que fiz clicando no link para jogar >> [FlappyBird Game Project](https://studio.code.org/c/2262938109)
+
+Quer ver como foi? olha só um trechinho de como foi executar este projeto:
+
 
 <p align="center">
   <img src="https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/badgesAndShields/wasFlappyBirdTestAnimation.gif">
 </p>
 
 [my certificate of conclude project](https://studio.code.org/congrats?i=_1_e6461769195c8429bd90735f7e2780ec&s=ZmxhcHB5)
+
+(Obrigado @microsoft por apoiar @codeorg) #FlappyCode
 
 ##### Beyond Code Learn
 - [codeCademy](https://www.codecademy.com/learn/welcome-to-codecademy)
@@ -121,4 +129,4 @@ Esta é a etapa 16 da "Hora do código", neste desafio, você aprende a criar co
 </p>
 
 > [!IMPORTANT]
-> This repository is used for educational purposes and practice testing only. :registered:
+> This repository is used for educational purposes and practice testing only :registered: .
