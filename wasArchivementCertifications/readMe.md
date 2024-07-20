@@ -51,8 +51,8 @@ I just did the #HourOfCode - check it out! (Thanks [@BillGates](https://www.gate
   <summary>Write your first computer program "Classic Maze" (3)</summary>
 
 
-
-Learn the basic concepts of Computer Science with drag and drop programming. This is a game-like, self-directed tutorial starring video lectures by Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Learn repeat-loops, conditionals, and basic algorithms. Available in 37 languages.
+<Description experience>
+- Learn the basic concepts of Computer Science with drag and drop programming. This is a game-like, self-directed tutorial starring video lectures by Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Learn repeat-loops, conditionals, and basic algorithms. Available in 37 languages.
 [Program Content](https://studio.code.org/s/hourofcode/lessons/1)
 
 - [How to plan your Hour of Code](https://hourofcode.com/br/how-to)
@@ -72,6 +72,7 @@ Learn the basic concepts of Computer Science with drag and drop programming. Thi
   <summary>Project Flappy bird game (16)</summary>
 
 <Language PT/BR>
+</Como criar o seu próprio Flappy Bird?>
 
 Na etapa 16 do "code hour" você é desafiado a recriar o jogo Flappy Bird com blocos lógicos, um jogo eletrônico para dispositivos móveis de 2013 desenvolvido em Hanói pelo programador vietnamita Nguyễn Hà Đông e publicado pela .GEARS studios que alcançou grande popularidade em 2014 nas principais plataformas de download de aplicativos no mundo.
 
