@@ -9,9 +9,11 @@
  :construction:  Work in progress  :construction:
 </h4>
 
+## 01. Certificados
+
 <h4 align="center">
 
-### Senac
+### 01.01 Senac
 
 </h4>
 
@@ -25,7 +27,7 @@
 
 </details>
 
-### Hour Of Code.org
+### 01.02 Hour Of Code.org
 
 <details>
   <summary> Open certificate "Hour Of Code" </summary>
@@ -45,13 +47,13 @@ I just did the #HourOfCode - check it out! (Thanks [@BillGates](https://www.gate
 </p>
 
 
-#### Description course 
+#### 01.02.01 Description course 
 
 <details>
   <summary>Write your first computer program "Classic Maze" (3)</summary>
 
 
-<Description experience>
+<Description>
 
 ->> Learn the basic concepts of Computer Science with drag and drop programming. This is a game-like, self-directed tutorial starring video lectures by Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Learn repeat-loops, conditionals, and basic algorithms. Available in 37 languages.
 [Program Content](https://studio.code.org/s/hourofcode/lessons/1)
@@ -72,8 +74,9 @@ I just did the #HourOfCode - check it out! (Thanks [@BillGates](https://www.gate
 <details>
   <summary>Project Flappy bird game (16)</summary>
 
-<Language PT/BR>
-</Como criar o seu próprio Flappy Bird?>
+
+
+#### Como criar o seu próprio Flappy Bird?
 
 Na etapa 16 do "code hour" você é desafiado a recriar o jogo Flappy Bird com blocos lógicos, um jogo eletrônico para dispositivos móveis de 2013 desenvolvido em Hanói pelo programador vietnamita Nguyễn Hà Đông e publicado pela .GEARS studios que alcançou grande popularidade em 2014 nas principais plataformas de download de aplicativos no mundo.
 
