@@ -63,7 +63,7 @@ I just did the #HourOfCode - check it out! (Thanks [@BillGates](https://www.gate
 - [Init project](https://studio.code.org/hoc/1)
 - [Continuous](https://studio.code.org/s/course2)
 
-##### Tasks
+##### 02.03.03 Tasks
 
 | <img src="https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180045.png" alt="Mid 01" /> | ![image2](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180125.png) |
 |----------|----------|
@@ -76,7 +76,7 @@ I just did the #HourOfCode - check it out! (Thanks [@BillGates](https://www.gate
 
 
 
-#### Como criar o seu próprio Flappy Bird?
+#### 01.02.03 Como criar o seu próprio Flappy Bird?
 
 Na etapa 16 do "code hour" você é desafiado a recriar o jogo Flappy Bird com blocos lógicos, um jogo eletrônico para dispositivos móveis de 2013 desenvolvido em Hanói pelo programador vietnamita Nguyễn Hà Đông e publicado pela .GEARS studios que alcançou grande popularidade em 2014 nas principais plataformas de download de aplicativos no mundo.
 
