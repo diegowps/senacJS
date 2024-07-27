@@ -12,4 +12,4 @@ let nota1, nota2, media
 
 console.clear()
 console.log('Calculo média para aprovação: ')
-console.log(' ')
+nota1 = Number(input.question())
