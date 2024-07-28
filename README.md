@@ -31,9 +31,9 @@
   <details>
   <summary> Requisitos e documentação do conversor </summary>
 
-Para executar os blocos de código a seguir, é necessário importar as bibliotecas [colors](https://www.npmjs.com/package/colors) e [readline-sync](https://www.npmjs.com/package/readline-sync).
+Para executar os blocos de código a seguir, é necessário importar as bibliotecas javascript [colors](https://www.npmjs.com/package/colors) e [readline-sync](https://www.npmjs.com/package/readline-sync).
 
-Após clonar o repositório [metros.js](https://github.com/diegowps/senacJS/blob/main/exercicios/calculadoras/metros.js), Execute em seu terminal as instalações com os comandos a seguir:
+Após clonar o repositório [metros.js](https://github.com/diegowps/senacJS/blob/main/exercicios/calculadoras/metros.js), Execute via terminal as instalações com os comandos a seguir:
 
 - [x] readline-sync
 - `npm i readline-sync`
@@ -41,7 +41,8 @@ Após clonar o repositório [metros.js](https://github.com/diegowps/senacJS/blob
 - [x] colors
 - `npm i colors`
 
-Execute a aplicação no terminal com o comando 
+Execute a aplicação com o comando terminal
+
 ```javascript
 node metros.js
 ```
@@ -50,10 +51,12 @@ Informe a quantidade de Metros(M) que deseja converter em Pés(ft), a resposta d
 
 Qual a lógica por trás do código?
 
-*1 metro* equivale a ***3,28084 pés***
+***1 metro*** equivale a ***3,28084 pés***
 
 1 pé = 0,3048 Metros
 1 metro	=	3,2808 pés
+
+Logo, para obter o valor esperado, o a unidade (M) deve ser dividida pelo valor correspondente em pés (ft) por metro **0.3048 ft** (Ex. 1m / 0.3048 = 3,281 ou 5m / 0.3048 = 16.40)
 
 | Metros | > | Pés |
 | ---- | ---- | ---- |
