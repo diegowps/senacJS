@@ -33,8 +33,9 @@ Após clonar o repositório [metros.js](https://github.com/diegowps/senacJS/blob
 
  readline-sync
 - `npm i readline-sync`
+| ---- |
  colors
-`npm i colors`
+- `npm i colors`
 
 Execute a aplicação no terminal com o comando 
 ``` node metros.js ```
