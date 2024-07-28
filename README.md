@@ -21,7 +21,8 @@
 <details>
   <summary> Atividades extra curriculares </summary>
 
-     [Clique aqui para visualizar todos os registros](https://github.com/diegowps/senacJS/tree/main/wasArchivementCertifications)
+  [Clique aqui para visualizar todos os registros](https://github.com/diegowps/senacJS/tree/main/wasArchivementCertifications)
+
     01.01.00 - Calculadoras
 
   01.01.01 - Conversor Metros(M) em Pés(ft)
@@ -51,26 +52,43 @@ Qual a lógica por trás do código?
 | ---- | ---- | ---- |
 | 0 m | = | 0 |
 | 0,001 m | = | 0,003281 |
-0,002 m = 0,006562
-0,009 m = 0,02953
-0,01 m = 0,03281
-0,09 m = 0,2953
-0,1 m = 0,3281
-1/5 m = 0,6562
-1/2 m = 1,64
-0,9 m = 2,953
-1 m = 3,281
-9 m	=	29,53
+| 0,002 m | = | 0,006562 |
+| 0,009 m | = | 0,02953 |
+| 0,01 m | = | 0,03281 |
+| 0,09 m | = | 0,2953 |
+| 0,1 m | = | 0,3281 |
+| 1/5 m | = | 0,6562 |
+| 1/2 m | = | 1,64 |
+| 0,9 m | = | 2,953 |
+| 1 m | = | 3,281 |
+| 9 m	| =	| 29,53 |
 
 
 Existem 3,28084 pés em 1 metro. Para transformar qualquer valor de metros para pés, basta multiplicar o valor em metros pelo fator multiplicador, conhecido também como fator de conversão que, neste caso, é igual a 3,28084.
 Assim, 1 metro vezes 3,28084 corresponde a 3,28084 pés.
 
-
-
-````
+Definidas as constantes e variáveis
 
 ````
+const input = require(`readline-sync`)
+const divisor = 0.3048
+console.clear()
+
+let metros, valor
+````
+Dividido o valor em metros pela constante
+
+````
+console.log(`Conversor de Metros(M) em Pés(ft)`)
+console.log()
+
+metros = Number(input.question(`Quantos metros deseja converter: `))
+
+valor = metros / divisor
+
+console.log(valor.toFixed(2))
+````
+
 
 <!-- This content will not appear in the rendered Markdown -->
 <!-- Diego -->
