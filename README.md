@@ -3,6 +3,7 @@
 > [!NOTE]
 > Este repositório armazena os conteúdos do curso de programação de aplicativos do Senac com finalidade acadêmica e todos os direitos são reservados. :copyright: <!-- Diego -->
 
+> Status do Projeto: Em desenvolvimento :warning:
 
 
 ## Desenvolvendo aplicação para serviço de auto atendimento (javaScript, Node, Electron, Java, CSS, HTML)
@@ -150,5 +151,8 @@ console.log(valor.toFixed(2))
 ### UC14 - Manipular e otimizar imagens vetoriais, bitmaps, gráficos - Sirlene Sanches
 
   </details>
+
+Tecnologias utilizadas
+_________________________________
 
 Copyright (C) 2024 by DiegoWps
