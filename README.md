@@ -22,24 +22,29 @@
 <details>
   <summary> Atividades extra curriculares </summary>
 
-  [Clique aqui para visualizar todos os registros](https://github.com/diegowps/senacJS/tree/main/wasArchivementCertifications)
+  [Clique aqui](https://github.com/diegowps/senacJS/tree/main/wasArchivementCertifications) para visualizar todos os registros
 
 01. Calculadoras
 
   - Conversor Metros(M) em Pés(ft)
 
+  <details>
+  <summary> Requisitos e documentação do conversor </summary>
+
 Para executar os blocos de código a seguir, é necessário importar as bibliotecas [colors](https://www.npmjs.com/package/colors) e [readline-sync](https://www.npmjs.com/package/readline-sync).
 
 Após clonar o repositório [metros.js](https://github.com/diegowps/senacJS/blob/main/exercicios/calculadoras/metros.js), Execute em seu terminal as instalações com os comandos a seguir:
 
-- [x] https://www.npmjs.com/package/readline-sync
+- [x] readline-sync
 - `npm i readline-sync`
 
 - [x] colors
 - `npm i colors`
 
 Execute a aplicação no terminal com o comando 
-``` node metros.js ```
+```javascript
+node metros.js
+```
 
 Informe a quantidade de Metros(M) que deseja converter em Pés(ft), a resposta deve ser o valor convertido para a unidade de medidas Pés(ft).
 
@@ -93,7 +98,7 @@ console.log(valor.toFixed(2))
 
 
 <!-- This content will not appear in the rendered Markdown -->
-
+<details>
 
 
 </details>
@@ -155,4 +160,4 @@ console.log(valor.toFixed(2))
 Tecnologias utilizadas
 _________________________________
 
-Copyright (C) 2024 by DiegoWps
+Copyright (C) 2024 by @diegowps
