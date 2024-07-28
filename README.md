@@ -21,6 +21,61 @@
 <details>
   <summary> Atividades extra curriculares </summary>
 
+     [Clique aqui para visualizar todos os registros](https://github.com/diegowps/senacJS/tree/main/wasArchivementCertifications)
+    01.01.00 - Calculadoras
+
+  01.01.01 - Conversor Metros(M) em Pés(ft)
+
+Para executar os blocos de código a seguir, é necessário importar as bibliotecas [colors](https://www.npmjs.com/package/colors) e [readline-sync](https://www.npmjs.com/package/readline-sync).
+
+Após clonar o repositório [metros.js](https://github.com/diegowps/senacJS/blob/main/exercicios/calculadoras/metros.js), Execute em seu terminal as instalações com os comandos a seguir:
+
+ readline-sync
+- `npm i readline-sync`
+ colors
+`npm i colors`
+
+Execute a aplicação no terminal com o comando 
+``` node metros.js ```
+
+Informe a quantidade de Metros(M) que deseja converter em Pés(ft), a resposta deve ser o valor convertido para a unidade de medidas Pés(ft).
+
+Qual a lógica por trás do código?
+
+*1 metro* equivale a *3,28084 pés*
+
+1 pé = 0,3048 Metros
+1 metro	=	3,2808 pés
+
+| Metros | > | Pés |
+| ---- | ---- | ---- |
+| 0 m | = | 0 |
+| 0,001 m | = | 0,003281 |
+0,002 m = 0,006562
+0,009 m = 0,02953
+0,01 m = 0,03281
+0,09 m = 0,2953
+0,1 m = 0,3281
+1/5 m = 0,6562
+1/2 m = 1,64
+0,9 m = 2,953
+1 m = 3,281
+9 m	=	29,53
+
+
+Existem 3,28084 pés em 1 metro. Para transformar qualquer valor de metros para pés, basta multiplicar o valor em metros pelo fator multiplicador, conhecido também como fator de conversão que, neste caso, é igual a 3,28084.
+Assim, 1 metro vezes 3,28084 corresponde a 3,28084 pés.
+
+
+
+````
+
+````
+
+<!-- This content will not appear in the rendered Markdown -->
+<!-- Diego -->
+
+
 </details>
 
 <details>
