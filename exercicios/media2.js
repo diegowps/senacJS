@@ -6,6 +6,8 @@
 //Importar readline-sync
 
 const input = require('readline-sync')
+//importar colors
+const colors = require(`colors`)
 
 //Variaveis
 let nota1, nota2, media
@@ -17,9 +19,9 @@ nota2 = Number(input.question("Digite a nota 2: "))
 //processamento
 media = (nota1 + nota2) / 2
 //Saida
-console.log(`Média: ${media.toFixed(1)}`)
+console.log(`Média: ${media.toFixed(1)}`.bgWhite)
 if (media >= 5.0) {
-    console.log("Aprovado! Parabéns ;)")
+    console.log("Aprovado! Parabéns ;)".blue)
 } else {
-    console.log("Reprovado! Tente novamente :)")
+    console.log("Reprovado! Tente novamente :)".red)
 }
