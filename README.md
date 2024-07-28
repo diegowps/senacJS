@@ -23,9 +23,9 @@
 
   [Clique aqui para visualizar todos os registros](https://github.com/diegowps/senacJS/tree/main/wasArchivementCertifications)
 
-      01.01.00 - Calculadoras
+### 01.01.00 - Calculadoras
 
-        01.01.01 - Conversor Metros(M) em Pés(ft)
+#### 01.01.01 - Conversor Metros(M) em Pés(ft)
 
 Para executar os blocos de código a seguir, é necessário importar as bibliotecas [colors](https://www.npmjs.com/package/colors) e [readline-sync](https://www.npmjs.com/package/readline-sync).
 
