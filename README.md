@@ -23,9 +23,9 @@
 
   [Clique aqui para visualizar todos os registros](https://github.com/diegowps/senacJS/tree/main/wasArchivementCertifications)
 
-    01.01.00 - Calculadoras
+      01.01.00 - Calculadoras
 
-  01.01.01 - Conversor Metros(M) em Pés(ft)
+        01.01.01 - Conversor Metros(M) em Pés(ft)
 
 Para executar os blocos de código a seguir, é necessário importar as bibliotecas [colors](https://www.npmjs.com/package/colors) e [readline-sync](https://www.npmjs.com/package/readline-sync).
 
@@ -48,9 +48,9 @@ Qual a lógica por trás do código?
 1 pé = 0,3048 Metros
 1 metro	=	3,2808 pés
 
-| Metros | > | Pés | | m |
-| ---- | ---- | ---- |  | -- |
-| 0 m | = | 0 | | m | 
+| Metros | > | Pés |
+| ---- | ---- | ---- |
+| 0 m | = | 0 |
 | 0,001 m | = | 0,003281 |
 | 0,002 m | = | 0,006562 |
 | 0,009 m | = | 0,02953 |
