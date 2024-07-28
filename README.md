@@ -22,6 +22,8 @@
 <details>
   <summary> Atividades extra curriculares </summary>
 
+  _____________________________________________
+
   [Clique aqui](https://github.com/diegowps/senacJS/tree/main/wasArchivementCertifications) para visualizar todos os registros
 
 01. Calculadoras
@@ -29,7 +31,9 @@
   - Conversor Metros(M) em Pés(ft)
 
   <details>
-  <summary> Requisitos e documentação do conversor </summary>
+  <summary> Documentação do código Conversor M/ft </summary>
+
+  ______________________________________
 
 Para executar os blocos de código a seguir, é necessário importar as bibliotecas javascript [colors](https://www.npmjs.com/package/colors) e [readline-sync](https://www.npmjs.com/package/readline-sync).
 
@@ -57,6 +61,8 @@ Qual a lógica por trás do código?
 1 metro	=	3,2808 pés
 
 Logo, para obter o valor esperado, o a unidade (M) deve ser dividida pelo valor correspondente em pés (ft) por metro **0.3048 ft** (Ex. 1m / 0.3048 = 3,281 ou 5m / 0.3048 = 16.40)
+
+Tabela para teste de valores convertidos
 
 | Metros | > | Pés |
 | ---- | ---- | ---- |
