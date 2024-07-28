@@ -4,7 +4,6 @@
  */
 
 //Importar readline-sync
-
 const input = require('readline-sync')
 //importar colors
 const colors = require(`colors`)
@@ -21,7 +20,7 @@ media = (nota1 + nota2) / 2
 //Saida
 console.log(`Média: ${media.toFixed(1)}`.bgWhite)
 if (media >= 5.0) {
-    console.log("Aprovado! Parabéns ;)".blue)
+    console.log("Aprovado! Parabéns ;)".bgBlue)
 } else {
-    console.log("Reprovado! Tente novamente :)".red)
+    console.log("Reprovado! Tente novamente :)".bgRed)
 }
