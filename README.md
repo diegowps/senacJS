@@ -31,10 +31,10 @@ Para executar os blocos de código a seguir, é necessário importar as bibliote
 
 Após clonar o repositório [metros.js](https://github.com/diegowps/senacJS/blob/main/exercicios/calculadoras/metros.js), Execute em seu terminal as instalações com os comandos a seguir:
 
- readline-sync
+ ###### readline-sync
 - `npm i readline-sync`
-| ---- |
- colors
+
+ ###### colors
 - `npm i colors`
 
 Execute a aplicação no terminal com o comando 
