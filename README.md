@@ -6,14 +6,15 @@
 > Status do Projeto: Em desenvolvimento :warning:
 
 
-## Desenvolvendo aplicação para serviço de auto atendimento (javaScript, Node, Electron, Java, CSS, HTML)
+## Desenvolvimento de aplicações para auto atendimento comercial
 
 <details>
-  <summary> Projetos e tarefas </summary>
+  <summary> Tasks </summary>
 
 | Projeto | Entrega | DeadLine | Imagem | Acesso ao projeto |
 | ---- | ---- | ---- | ---- | ---- |
-| Exercicíos de lógica e algoritmo | [Conversão de Metros para Pés](https://github.com/diegoppz/senacJS/blob/main/exercicios/calculadoras/metros.js) | 04/07/2024 | ![Image4](https://github.com/diegoppz/senacJS/blob/main/wasArchivementCertifications/othersArchivementsAndImages/Screenshot%202024-07-09%20180327.png) | [j]() |
+| Exercicíos de lógica e algoritmo | [Conversão de Metros para Pés](https://github.com/diegoppz/senacJS/blob/main/exercicios/calculadoras/metros.js) | 04/07/2024 | ![Image4](https://github.com/diegowps/senacJS/blob/main/wasChronoType/image/printLog/codeMetrosJsCalc.png) | [repositório calculadoras metros/pés](https://github.com/diegoppz/senacJS/blob/main/exercicios/calculadoras/metros.js) |
+| Init scratch (algorítmo com blocos) | []()
 | ---- | ---- | ---- | ---- | ---- |
 
 </details>
@@ -24,14 +25,14 @@
 
   _____________________________________________
 
-  [Clique aqui](https://github.com/diegowps/senacJS/tree/main/wasArchivementCertifications) para visualizar todos os registros
+  [Clique aqui](https://github.com/diegowps/senacJS/tree/main/wasArchivementCertifications) para visualizar todos os registros ou acesse através do índice abaixo:
 
 01. Calculadoras
 
   - Conversor Metros(M) em Pés(ft)
 
   <details>
-  <summary> Documentação do código Conversor M/ft </summary>
+  <summary> Documentação do código Conversor m/ft </summary>
 
   ______________________________________
 
@@ -105,6 +106,7 @@ valor = metros / divisor
 console.log(valor.toFixed(2))
 ````
 
+![view code](https://github.com/diegoppz/senacJS/blob/main/exercicios/calculadoras/metros.js)
 
 <!-- This content will not appear in the rendered Markdown -->
 <details>
@@ -165,6 +167,13 @@ console.log(valor.toFixed(2))
 ### UC14 - Manipular e otimizar imagens vetoriais, bitmaps, gráficos - Sirlene Sanches
 
   </details>
+
+  Projetos para se inspirar
+  https://scratch.mit.edu/projects/1042497735/editor/
+  https://scratch.mit.edu/projects/946418677/editor/
+  https://scratch.mit.edu/projects/1029862013/
+
+<iframe src="https://scratch.mit.edu/projects/1042497735/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 Tecnologias utilizadas
 _________________________________
