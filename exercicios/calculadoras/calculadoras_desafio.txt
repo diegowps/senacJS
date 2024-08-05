@@ -20,6 +20,10 @@ Diego 8) Converter metros em pés(unidade de medida)
 18) Converter Mb para Gb
 
 
+
+
+
+Primeiro passo, crie um algoritmo
 Como converter metros em pés 1 metro é igual a 3.28084 pés: 
 1 m = (1 / 0,3048) ft = 3,28084 ft A distância d em pés (ft) 
 é igual à distância d em metros (m) dividida por 0,3048: d (ft) = d (m) / 0,3048
