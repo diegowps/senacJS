@@ -211,3 +211,97 @@ real, euro
 //processamentototal = real / euro
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercicio 4 - Desenvolva no console do JS um aplicativo
+que faça o sorteio de um jogo de dado, ao
+
+Exemplo
+
+
+Estruturas de repetições
+
+
+Exercicio 5 - avaliacao em dupla - desenvolvimento do jogo jokenpow,
+conforme exibição
+
+deseja jogar novamente?
+
+
+
+
+
+
+
+
+
+
