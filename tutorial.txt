@@ -305,3 +305,35 @@ deseja jogar novamente?
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+while do-while - estruturas de repetições infinitas
+
+while (condição) {
+      //analisa a condição do código enquanto a condição for verdadeira
+}
+
+do {
+      //sempre executa o código uma vez independente da condição, depois se comporta como while
+} while(condição)
+
+
+
