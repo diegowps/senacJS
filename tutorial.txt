@@ -335,5 +335,7 @@ do {
       //sempre executa o código uma vez independente da condição, depois se comporta como while
 } while(condição)
 
+Exercicio 6:
+Desenvolver um aplicativo para calcular a tabuada, semelhante ao exemplo de aula usando a estrutura while no lugar do for
 
 
