@@ -1,6 +1,6 @@
 /**
  * tabuadas(exemplo e encadeamneto do laço for)
- * @author joão vitor
+ * @author Diego
  */
 
 console.clear()
