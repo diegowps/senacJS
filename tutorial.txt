@@ -211,3 +211,149 @@ real, euro
 //processamentototal = real / euro
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercicio 4 - Desenvolva no console do JS um aplicativo
+que faça o sorteio de um jogo de dado, ao
+
+Exemplo
+
+
+Estruturas de repetições
+
+
+Exercicio 5 - avaliacao em dupla - desenvolvimento do jogo jokenpow,
+conforme exibição
+
+deseja jogar novamente?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+while do-while - estruturas de repetições infinitas
+
+while (condição) {
+      //analisa a condição do código enquanto a condição for verdadeira
+}
+
+do {
+      //sempre executa o código uma vez independente da condição, depois se comporta como while
+} while(condição)
+
+Exercicio 6:
+Desenvolver um aplicativo para calcular a tabuada, semelhante ao exemplo de aula usando a estrutura while no lugar do for
+
+_______________________________________________________________________________________________________________________________
+Funções:
+Uma função em JavaScript é um bloco de código que realiza uma tarefa especifica ou calcula um valor.
+Você pode pensar nela como uma "receita" que você escreve uma vez e pode usar várias vezes, sem precisar reescrever o código.
+
+Para criar uma função simples(literal) usamos a palavra reservada function, e escolhemos um nome, conforme sintaxe abaixo:
+
+function nome() {
+      //Código
+}
+
+Para executar uma função devemos escrever o nome da função seguido de parêntese:
+nome()
+
+//Variáveis
+Tipos primitivos: string, number, Booleanas
+outros tipos : function, object
+
+______________________________________________________________________________________________________________________________
