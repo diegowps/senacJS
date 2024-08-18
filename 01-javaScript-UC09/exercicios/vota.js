@@ -1,6 +1,6 @@
 /**
  * APP para verificar em função da idade a obrigação de votar ou não
- * @author joão vitor
+ * @author Diego
  */
 
 
