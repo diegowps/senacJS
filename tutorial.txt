@@ -357,3 +357,49 @@ Tipos primitivos: string, number, Booleanas
 outros tipos : function, object
 
 ______________________________________________________________________________________________________________________________
+
+
+
+
+
+- atribuidas (variavel) "função anonima"
+
+
+
+Atividade 3 (avaliação em dupla)
+desenvolver uma calculadora no console usando funções, conforme modelo abaixo:
+
+Calculadora:
+Digite o primeiro número: 10
+Digite o segundo número: 2
+Opções :
+1 - somar
+2 - subtrair
+3 - multiplicar
+4 - dividir
+5 - calcular porcentagem
+
+Digite a opção desejada: 3
+A multiplicação de 10 x 2 = 20
+
+
+______________________________________________________
+POO 
+- Abstração(classe modelo)
+- Herança
+- Polimorfismo
+
+- Encapsulamento
+
+
+
+
+
+
+
+
+
+
+
+
+
