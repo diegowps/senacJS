@@ -168,10 +168,19 @@ console.log(valor.toFixed(2))
 
   </details>
 
-  Projetos para se inspirar
-  https://scratch.mit.edu/projects/1042497735/editor/
-  https://scratch.mit.edu/projects/946418677/editor/
-  https://scratch.mit.edu/projects/1029862013/
+  Projetos para se inspirar scratch
+-  https://www.scratchfoundation.org/events-calendar
+-  https://www.scratchfoundation.org/scratch-conference
+-  https://scratchday.portoseguro.org.br/
+-  https://scratch.mit.edu/projects/1042497735/editor/
+-  https://scratch.mit.edu/projects/946418677/editor/
+-  https://scratch.mit.edu/projects/1029862013/
+-  https://scratch.mit.edu/projects/1045773817/editor/
+-  https://projects.raspberrypi.org/en/pathways/scratch-intro
+-  https://csfirst.withgoogle.com/s/en/home
+-  https://scratch.mit.edu/educators
+
+
 
 <iframe src="https://scratch.mit.edu/projects/1042497735/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
