@@ -41,19 +41,32 @@ class Conta {
         }
         pix(valor, destino) {
             if (valor > this._saldo) {
+                console.log(`pix de R$ ${valor.toFixed(2)} não realizado. Saldo Insuficiene.`.red)	
 
             } else {
-                
+                this._saldo -= valor
+                destino.depositar(valor)
+                console.log(`pix de R$ ${valor.toFixed(2)} para ${destino.getTitular()} realizado com sucesso`.green.bold)
+            }
         
         }
-
-
-
     }
 
-    console.clear();
-    console.log('BANCO')
+    class ContaPoupanca extends Conta {
+        //atributos
+        constructor(titular, numero, saldo) {
+            super(titular, numero, saldo)
+        }
+        //metodo
+        exibirSaldo() {
+            console.log(`Saldo atual da conta poupança de ${this.getTitular()} é R$ ${this.getSaldo().toFixed(2)}`)
+        }
+        
+    }
 
+
+    console.clear()
+    console.log("BANCO")
     console.log('')    
     console.log('██████   █████  ███    ██  ██████  ██████  '.blue) 
     console.log('██   ██ ██   ██ ████   ██ ██      ██    ██ '.blue) 
@@ -71,6 +84,7 @@ class Conta {
     cc1.exibirSaldo()
     cc1.depositar(1000)
     cc1.exibirSaldo()
+    console.log('') 
 
     let cc2 = new Conta(2, "Leandro Sanchez", 75000);
     console.log(`Cliente: ${cc2.getTitular()} | conta: ${cc2.getNumero()}`.green)
@@ -79,6 +93,8 @@ class Conta {
     cc2.exibirSaldo()
     cc2.sacar(1000)
     cc2.exibirSaldo()
+    cc2.pix(2000, cc1)
+    console.log('') 
 
     let cc3 = new Conta(3, "Sierlene Ramos", 80000);
     console.log(`Cliente: ${cc3.getTitular()} | conta: ${cc3.getNumero()}`.green)
@@ -87,5 +103,13 @@ class Conta {
     cc3.exibirSaldo()
     cc3.sacar(90000)
     cc3.exibirSaldo()
+    cc3.pix(5000, cc2)
+    cc3.exibirSaldo()
+    cc2.exibirSaldo()
+    console.log('') 
 
+    console.log("_______________________________________________________________________________")
+    let cp1 = new ContaPoupanca(10, "Diego", 1000)
+    console.log(`Cliente: ${cp1.getTitular()} | conta: ${cp1.getNumero()}`.green.bold)
+    cp1.exibirSaldo()
 
