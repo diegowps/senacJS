@@ -1,6 +1,15 @@
 /**
  * Classe Carro
  * @author Diego
+ * 
+ * 1 - criar classe modelo (abstração)
+ * 2 - criar atributos
+ * 3 - criar metodos
+ * 4 - criar objetos
+ * 5 - adicionar um metodo construtor que gere um numero de chassi aleatorio +2 carros
+ * 6 - extend classe carro criar objeto aviao
+ * 7 - modificar metodo acelerar para aviao(polimorfismo)
+ * 
  */
 
 class Carro {
@@ -10,42 +19,3 @@ class Carro {
         this.ano = ano;
         this.cor = cor;
         this.preco = preco;
-    }
-    getMarca() {
-        return this.marca;
-    }
-    getModelo() {
-        return this.modelo;
-    }
-    getAno() {
-        return this.ano;
-    }
-    getCor() {
-        return this.cor;
-    }
-    getPreco() {
-        return this.preco;
-    }
-    setMarca(marca) {
-        this.marca = marca;
-    }
-    setModelo(modelo) {
-        this.modelo = modelo;
-    }
-    setAno(ano) {
-        this.ano = ano;
-    }
-    setCor(cor) {
-        this.cor = cor;
-    }
-    setPreco(preco) {
-        this.preco = preco;
-    }
-    imprimir() {
-        console.log(`Marca: ${this.marca}`);
-        console.log(`Modelo: ${this.modelo}`);
-        console.log(`Ano: ${this.ano}`);
-        console.log(`Cor: ${this.cor}`);
-        console.log(`Preço: ${this.preco}`);
-    }
-}
