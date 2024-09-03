@@ -408,3 +408,23 @@ Atenção - para reescrever um metodo é necessario usar o "Mesmo" nome do méto
 Atividade 4: Avaliação individual
 slides 62 a 67 (POO exercicio 1 - carros)(exceto slide 65 ex3)
 
+
+
+
+
+__________________________________________________________________________________________
+
+Array (vetor)
+Na linguagem javascript array é um objeto
+
+Array multidimesional (matriz)
+É um array que contém outro(s) array(s)
+
+
+
+
+
+
+
+
+
