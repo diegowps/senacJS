@@ -15,12 +15,12 @@ function show() {
             [indice]}`)
         }), 1000       
         indice++*/
-        setTimeout (() => {
+        setTimeout(() => {
             document.getElementById('slide').src = (`img/${slides
-                [indice]}`)    
-        }
-        
-        setTimeout(show, intervalo)
+                [indice]}`)
+            document.getElementById('slide').className = ''    
+        }, 1000)
+        indice++
         if (indice === slides.length) {
         //.length (tamanho maximo)
             indice = 0
