@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Aqui você encontra...">
+    <meta name="keywords" content="jogos, playstation, xbox">
+    <meta name="author" content="Diego">
+
+    <title>Games</title>
+
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <img src="img/logo.png" alt="Logo">
+            </div>
+            <nav>
+                <input type="checkbox" name="check" id="check">
+                <label for="check">&#x2630;</label>
+                    
+                <ul>
+                    <li><a href="index.html">Contatos</a></li>
+                    <li><a href="fotos.html">Fotos</a></li>
+                    <li><a href="video.html">Videos</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>   
+    
+    <div>
+        <div class="banner-anime">
+            <img class="anime1" src="img/banner1.jpg" alt="God of War" title="Kratos">
+            <img class="anime2" src="img/banner2.jpg" alt="God of War" title="Kratos">
+        </div>
+    </div>
+
+    <section>
+        <h1>Entre em contato</h1>
+        <div>
+            <form action="">
+                <fieldset>
+                    <legend>
+                        Identificação do usuario
+                    </legend>
+                    <p>
+                        <label for="fnome">Nome:</label>
+                        <input type="text" name="nome" id="fnome"
+                        placeholder="Digite seu nome completo" required
+                        autofocus size="35" maxlength="50">
+                    </p>
+                </fieldset>
+
+                <fieldset>
+                    <legend>Mensagem do Usuário</legend>    
+                    <p>
+                        <label  for="furg">Grau de Urgência</label>
+                        Min<input type="range" name="urg" id "furg"
+                        min="0" max="10" step="1">Max
+                    </p>
+
+                    <p>
+                        <textarea name="msg" id="msg" cols="45" rows="7
+                        placeholder="Digite sua mensagem...">
+                        </textarea>
+                    </p>
+                    <p>
+                        <label for="fgame">Consoles:</label>
+                        <select name="game" id="fgame">
+                            <option value="PS">Polystation</option>
+                            <option value="Xbox"> XBOX</option>
+                            <option value="Wii">Nintendo</option>   
+                        </select>
+                    </p>
+                    <p>
+                        <label for="fcor">Cor: </label>
+                        <input type="color" name="cor" id="fcor"
+                        value="#0000FF">
+                    </p>
+                    <p>
+                        <label for="fqtde">Qtde:</label>
+                        <input type="text" name="tot" id="ftot"
+                        placeholder="Total a pagar" readonly>
+                    </p>
+                </fieldset>
+                <div>
+                    <button type="submit" name="enviar">Enviar</button>
+                    <button type="reset" name="limpar"> Limpar</button>
+
+                </div>
+            </form>
+
+        </div>
+    </section>
+    
+    <footer>
+        <div>
+            <p>&copy;2024. Desenvolvido para curso técnico em informatica</p>
+            <p>
+                <a href="" target="_blank"><img src="img/facebook.png" alt="Facebook"></a>
+                <a href="" target="_blank"><img src="img/x_twitter.png" alt="x_twitter"></a>
+                <a href="" target="_blank"><img src="img/linkedin.png" alt="linkedin"></a>
+                <a href="" target="_blank"><img src="img/instagram.png" alt="instagram"></a>
+                <a href="" target="_blank"><img src="img/youtube.png" alt="youtube"></a>
+                <a href="" target="_blank"><img src="img/github.png" alt="github"></a>
+            </p>
+        </div>
+    </footer>
+</body>
+</html>

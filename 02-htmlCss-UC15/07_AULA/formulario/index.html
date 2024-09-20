@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Aqui você irá encontrar...">
+    <meta name="keywords" content="jogos, game, playstation, xbox...">
+    <meta name="author" content="Sirlene Sanches">
+
+    <title>Games</title>
+
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="layout container">
+            <div class="logo">
+                <img src="img/logo.png" alt="Logotipo controle game">
+            </div>
+            <nav class="menu">
+                <input type="checkbox" name="check" id="check">
+                <label for="check" class="label_menu">&#x2630;</label>
+                <ul>
+                    <li><a href="index.html">Contatos</a></li>
+                    <li><a href="fotos.html">Fotos</a></li>
+                    <li><a href="video.html">Vídeos</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="layout banner">
+        <div class="banner-anime">
+            <img class="anime1" src="img/banner1.jpg" alt="Jogo God Of War" title="Kratos">
+            <img class="anime2" src="img/banner2.jpg" alt="Jogo God Of War" title="Kratos">
+        </div>
+    </div>
+
+    <section>
+        <h1>Entre em contato</h1>
+        <div class="layout">
+            <form action="" class="form">
+                <fieldset id="usuario">
+                    <legend>Identificação do Usuário</legend>
+                    <p>
+                        <label for="fnome">Nome:</label>
+                        <input type="text" name="nome" id="fnome" placeholder="Digite seu nome completo" required autofocus size="35" maxlength="50">
+                    </p>
+
+                    <p>
+                        <label for="femail">E-mail:</label>
+                        <input type="email" name="mail" id="femail" size="35" maxlength="50" placeholder="Digite seu e-mail" required>
+                    </p>
+
+                    <p>
+                        <label for="fsenha">Senha:</label>
+                        <input type="password" name="senha" id="fsenha" size="8" maxlength="8" required placeholder="8 dígitos">
+                    </p>
+
+                    <fieldset id="sexo">
+                        <legend>Sexo</legend>
+                        <p>
+                            <input type="radio" name="sexo" id="fmasc">
+                            <label for="fmasc">Masculino</label>
+                        </p>
+                        <p>
+                            <input type="radio" name="sexo" id="ffem">
+                            <label for="ffem">Feminino</label>
+                        </p>
+                    </fieldset>
+
+                    <p>
+                        <label for="fnasc">Data de Nascimento:</label>
+                        <input type="date" name="nasc" id="fnasc">
+                    </p>
+                </fieldset>
+
+                <fieldset id="endereco">
+                    <legend>Endereço do Usuário</legend>
+
+                    <p>
+                        <label for="frua">Logradouro:</label>
+                        <input type="text" name="rua" id="frua" size="35" maxlength="50" placeholder="Rua, Av, Trav, ...">
+                    </p>
+                    <p>
+                        <label for="fnum">Número:</label>
+                        <input type="number" name="num" id="fnum" min="0" max="99999">
+                    </p>
+                    <p>
+                        <label for="fest">Estados:</label>
+                        <select name="est" id="fest">
+                            <optgroup label="Região Sudeste">
+                                <option value="SP">São Paulo</option>
+                                <option value="RJ">Rio de Janeiro</option>
+                                <option value="MG" selected>Minas Gerais</option>
+                                <option value="ES">Espírito Santo</option>
+                            </optgroup>
+                            <optgroup label="Região Sul">
+                                <option value="SC">Santa Catarina</option>
+                                <option value="PR">Paraná</option>
+                                <option value="RS">Rio Grade do Sul</option>
+                            </optgroup>
+                        </select>
+                    </p>
+
+                    <p>
+                        <label for="fcid">Cidade:</label>
+                        <input type="text" name="cid" id="fcid" size="35" maxlength="50" placeholder="Digite sua Cidade">
+                    </p> 
+                </fieldset>
+
+                <fieldset id="mensagem">
+                    <legend>Mensagem do Usuário</legend>
+                    <p>
+                        <label for="furg">Grau de Urgência</label>
+                        Mín<input type="range" name="urg" id="furg" min="0" max="10" step="1">Máx                      
+                    </p>
+
+                    <p>
+                        <textarea name="msg" id="msg" cols="45" rows="7" placeholder="Digite sua mensagem..."></textarea>
+                    </p>
+                </fieldset>
+
+                <fieldset id="pedido">
+                    <legend>Quero um Console</legend>
+
+                    <p>
+                        <input type="checkbox" name="cons" id="fcons" checked>
+                        <label for="fcons">Gostaria de adiquirir um console quando disponível</label>
+                    </p>
+
+                    <p>
+                        <label for="fgame">Consoles:</label>
+                        <select name="game" id="fgame">
+                            <option value="PS">Palystation</option>
+                            <option value="Xbox">XBOX</option>
+                            <option value="Wii">Nintendo</option>
+                        </select>
+                    </p>
+
+                    <p>
+                        <label for="fcor">Cor:</label>
+                        <input type="color" name="cor" id="fcor" value="#0000FF">
+                    </p>
+                    <p>
+                        <label for="fqtde">Qtde:</label>
+                        <input type="number" name="qtde" id="fqtde" min="0" max="5">
+                    </p>
+                    <p>
+                        <label for="ftot">Preço Total: R$ </label>
+                        <input type="text" name="tot" id="ftot" placeholder="Total a pagar" readonly>
+                    </p>
+                </fieldset>
+
+                <div class="btn_flex">
+                    <button type="submit" name="enviar" class="btn">Enviar</button>
+                    <button type="reset" name="limpar" class="btn">Limpar</button>
+                </div>
+            </form>
+        </div>
+    </section>
+
+    <footer id="rodape">
+        <div class="layout flex">
+            <p>&copy; 2024. Desenvolvido para curso Técnico em Informática</p>
+            <p>
+                <a href="" target="_blank"><img src="img/facebook.png" alt="Facebook"></a>
+                <a href="" target="_blank"><img src="img/instagram.png" alt="Instagram"></a>
+                <a href="" target="_blank"><img src="img/x_twitter.png" alt="X Twitter"></a>
+                <a href="" target="_blank"><img src="img/linkedin.png" alt="Linkedin"></a>
+                <a href="" target="_blank"><img src="img/youtube.png" alt="Youtube"></a>
+                <a href="" target="_blank"><img src="img/github.png" alt="GitHub"></a>
+            </p>
+        </div>
+    </footer>
+
+ 
+</body>
+</html>

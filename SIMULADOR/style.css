@@ -1,0 +1,28 @@
+
+nav ul li a:hover {
+    background-color: #cc470d;
+}
+
+/* Container */
+.container {
+    margin: 50px 10px;
+    text-align: center;
+}
+
+#sw1 {
+    float: left;
+
+}
+#sw2 {
+    float: right;
+}
+/* rodape */
+footer {
+    width: 100%;
+    background-color: #e15a1f;
+    color: #fff;
+    padding: 5px ;
+    
+}
+
+/* https://html5css3.com.br/ */

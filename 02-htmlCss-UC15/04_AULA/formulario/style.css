@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+/*Comentários*/
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --cor1: #0b8140; /*cor de título*/
+    --cor2: #83e1ad; /*cor dos botões*/
+}
+
+body{
+    background: #FFF;
+}
+.emanuel{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+header{
+    background: red;
+    height: 60px;
+}
+.joao img{
+    padding: 5px 10px;
+}
+#check{
+    display: none;
+}
+.label_samuel{
+    font-size: 3em;
+    position: fixed;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+
+
+/*______________________________________________________*/
+/*Explicação flexbox*/
+.container{
+    height: 500px;
+    background: #0b8140;
+    display: flex;
+    flex-flow: row wrap; /*esse é o felx-direction e flex-wrap juntos; recomendado*/
+    /*flex-direction: row; row; ro-reverse; column; column-reverse*/
+    /*flex-wrap: wrap; nowrap; wrap; wrap-reverse*/
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+
+}
+.itens{
+    width: 150px;
+    height: 100px;
+    background: #dde6e1;
+    border: 1px solid #000000;
+    font-size: 2em;
+    flex: auto;
+}
+.ola5{
+    flex-grow: 5;
+}

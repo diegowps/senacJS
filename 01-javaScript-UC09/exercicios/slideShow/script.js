@@ -8,22 +8,23 @@ show()
 
 function show() {
     //setTimeout gera um temporizador
-    setTimeout(() => {
+    setTimeout() => {
         document.getElementById("slide").className += 'fadeOut'
         
         /*.src = (`img/${slides
             [indice]}`)
         }), 1000       
         indice++*/
-        setTimeout (() => {
+        setTimeout(() => {
             document.getElementById('slide').src = (`img/${slides
-                [indice]}`)    
-        }
-        
-        setTimeout(show, intervalo)
+                [indice]}`)
+            document.getElementById('slide').className = ''    
+        }, 1000)
+        indice++
         if (indice === slides.length) {
         //.length (tamanho maximo)
             indice = 0
         }
         setTimeout(show, intervalo) //repete a função a cada 3s
+}
 }

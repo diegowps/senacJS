@@ -1,0 +1,443 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@font-face {
+    font-family: textos;
+    src: url(fontes/bubblegum-sans-regular.otf);
+    font-weight: normal;
+}
+
+/*Comentários*/
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --cor1: #0070D1; /*cor de título*/
+    --cor2: #00439C; /*cor dos botões*/
+    --cor3: #343538; /*fundo menu e cor de texto*/
+    --cor4: #a9a9a9; /*borda do menu*/
+    --cor5: #FFFFFF; 
+
+    --titulo: "Montserrat", sans-serif;
+    --textos: "textos", sans-serif;
+
+    --margem-sup-inf: 30px; /*margem para os titulos*/
+}
+
+body{
+    background: var(--cor5);
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;    
+}
+h1{
+    font-family: var(--textos);
+    text-align: center;
+    color: var(--cor1);
+    font-size: 3em;
+    margin: var(--margem-sup-inf);
+}
+
+.layout{ /*centralizar contéudo*/
+    margin: 0 auto;
+}
+
+.btn_flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    background: var(--cor2);
+    color: var(--cor4);
+    font-size: 1.1em;
+    padding: 7px;
+    margin: 0px 5px 15px 5px;
+    border-radius: 10px;
+}
+/*Página Vídeo*/
+.flex2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+/*Smartphone Portrait - em pé*/
+
+/*menu*/
+header{
+    height: 60px;
+}
+
+.logo img{
+    padding: 5px 0px 0px 5px;
+}
+
+#check{
+    display: none;
+}
+.label_menu{
+    font-size: 3em;
+    position: fixed;
+    top: 5px;
+    right: 20px;
+    color: rgba(0,0,0,0.5);
+}
+nav ul{
+    list-style: none;
+    background: var(--cor3);
+    height: 100vh; 
+    position: fixed; 
+    top: 60px;
+    right: -100%; 
+    width: 100%;
+    font-family: var(--titulo);
+    transition: all 0.5s;
+	z-index: 1;
+}
+#check:checked ~ ul{ 
+    right: 0;
+}
+nav ul li{
+    padding: 20px;
+    border-bottom: 1px solid var(--cor4);
+}
+nav ul li a{
+    text-decoration: none;
+    color: var(--cor5);
+}
+
+/*BANNER - esconder os banners*/
+.anime1, .anime2{
+   display: none;
+}
+
+/*FORMULÁRIO*/
+.form{
+    font-family: var(--titulo);
+}
+.form p{
+    font-size: 1em;    
+}
+#usuario, #endereco, #mensagem, #pedido, #sexo{
+    border: 1px solid var(--cor3);
+    width: 340px;
+    margin: 15px 5px;
+    padding: 5px;
+}
+#sexo{
+    width: 280px;
+}
+legend{
+    font-size: 1.3em;
+}
+input, select{
+    height: 2em;
+    border: none;
+    margin: 5px;
+    padding: 2px;
+    background: #e5e5e6;
+}
+textarea{
+    margin-top: 15px;
+    background: #e5e5e6;
+}
+
+#rodape{
+    text-align: center;
+}
+
+/* Página Vídeo*/
+#filme{
+    height: 30vh;
+    margin-bottom: 15px;
+}
+#musica{
+    margin: 25px 0px;
+}
+
+/*pagina fotos*/
+.fotos{
+    display: flex;
+    flex-direction: column;
+}
+.galeria{
+    width: 82vw;
+    list-style: none;
+    margin: 60px auto;
+}
+.galeria li span{
+    background: rgba(0,0,0,0.5);
+    padding: 5px;
+    color: var(--cor5);
+}
+.galeria li{
+    justify-content: center;
+    margin: 30px;
+}
+.galeria img{
+    background: var(--cor4);
+    padding: 5px;
+    width: 280px;
+    height: 200px;
+}
+.aumentar:hover{
+    transform: scale(1.3);
+}
+.layout p{
+    font-family: var(--textos);
+}
+
+/*Smartphone Landscape - deitado*/
+@media (min-width: 576px){
+    
+    .layout{
+        max-width: 540px;          
+    }
+    /*BANNER*/
+    .anime1, .anime2{
+        max-width: 100%;
+        height: auto;
+    }
+    .anime1{
+        display: inline;
+    }
+    .anime2{
+        display: none;
+    }
+    /*FORMULÁRIO*/
+    #usuario, #endereco, #mensagem, #pedido{
+        width: 520px;
+    }
+
+    /*Página Vídeo*/
+    #filme{
+        height: 78vh;
+    }
+
+/*pagina fotos*/
+
+.galeria{
+    width: 85vw;
+}
+.galeria li{
+    text-align: center;
+}
+.galeria img{
+    width: 280px;
+    height: 210px;
+}
+}
+
+/*Tablet Portrait - em pé*/
+@media (min-width: 768px){
+    .layout{
+        max-width: 720px;       
+    }
+    .anime1{
+        display: inline;
+    }
+    .anime2{
+        display: none;
+    }
+    /*FORMULÁRIO*/
+    #usuario, #endereco, #mensagem, #pedido{
+        width: 700px;
+    }
+    #usuario{
+        background: url(img/icontato.png) no-repeat 95% 95%;
+    }
+    #endereco{
+        background: url(img/iendereco.png) no-repeat 95% 95%;
+    }
+    #mensagem{
+        background: url(img/imensagem.png) no-repeat 95% 95%;
+    }
+    #pedido{
+        background: url(img/ipgto.png) no-repeat 95% 95%;
+    }
+    /*Página Vídeo*/
+    #filme{
+        height: 38vh;
+    }
+
+
+/*pagina fotos*/
+.fotos{
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.galeria{
+    width: 70vw;
+    /*background: yellow;*/
+}
+.galeria li{
+    /*text-align: center;*/
+    float: left;
+}
+}
+
+/*Tablet Landscape - deitado*/
+@media (min-width: 992px){    
+    .layout{
+        max-width: 960px;     
+    }
+    /*BANNER*/
+    .banner{
+        height: 36vh;
+    }
+    /*FORMULÁRIO*/
+    #usuario, #endereco, #mensagem, #pedido{
+        width: 940px;
+    }
+
+    /*Página Vídeo*/
+    #filme{
+        height: 65vh;
+    }
+    /*pagina fotos*/
+    .galeria{
+        width: 61vw;
+    }
+}
+
+
+/*PC*/
+@media (min-width: 1200px){    
+    .layout{
+        max-width: 1140px;          
+    }
+    header{
+        height: 90px;        
+    }
+    .logo img{
+        margin: 20px 0px 0px 10px;
+    }
+    .label_menu{
+        display: none;
+    }
+    nav ul{
+        position: static;
+        height: auto;
+        background: transparent;
+        margin-top: 30px;
+    }
+    nav ul li{
+        float: left;
+        border: 0;
+    }
+    nav ul li a{
+        color: var(--cor1);
+        font-weight: bold;
+    }
+    nav ul li a:hover{
+        color: var(--cor3);
+    }
+    .banner{
+        height: 45vh;
+    }
+    .anime1, .anime2{
+        max-width: 100%;
+        height: auto;
+        display: block;
+    }
+    .banner-anime{
+        position: relative;
+        display: inline-block;
+        width: 100%;
+        height: 350px;
+        margin: 0;
+    }
+    .banner-anime img{
+        position: absolute;
+        transition-property: opacity;
+        transition-duration: 1s;
+        transition-timing-function: linear;
+    }
+    .anime1, .anime2:hover{
+        opacity: 1;
+    }
+    .anime1:hover, .anime2{
+        opacity: 0;
+    } 
+    h1{
+        margin-top: 80px;
+    }
+    /*Formulário*/
+    #usuario, #endereco, #mensagem, #pedido{
+        width: 900px;
+        margin: 0 auto;
+        margin-bottom: 50px;
+    }
+
+    /*RODAPE*/
+    .flex{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-around;
+    }
+
+    /*Página Vídeo*/
+    .radio-tv{
+        width: 150vw;
+        height: 100vh;
+        background: url("img/radio-tv.png") no-repeat;
+        margin: 5px auto;
+    }
+    #filme{
+        width: 35vw;
+        height: 55vh;
+        position: relative;
+        display: block;
+        margin-right: 530px;
+    }
+    #musica{
+        position: relative;
+        display: block;
+        margin: 100px 0px 0px 305px;
+    }
+    
+    /*pagina fotos*/
+    .galeria{
+        width: 73vw;
+    }
+    .galeria li{
+        float: left;
+    }
+}
+
+/*______________________________________________________*/
+/*Explicação flexbox*/
+.emanuel{
+    height: 500px;
+    background: #0b8140;
+    display: flex;
+    flex-flow: row wrap; /*esse é o flex-direction e flex-wrap juntos; recomendado*/
+    /*flex-direction: row; row; ro-reverse; column; column-reverse*/
+    /*flex-wrap: wrap; nowrap; wrap; wrap-reverse*/
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+
+}
+.joao{
+    width: 150px;
+    height: 100px;
+    background: #dde6e1;
+    border: 1px solid #000000;
+    font-size: 2em;
+    flex: auto;
+}
+.ola5{
+    flex-grow: 5;
+}

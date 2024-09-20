@@ -1,0 +1,272 @@
+
+
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@font-face {
+    font-family: contato;
+    src: url(fontes/bubblegum-sans-regular.otf);
+    font-weight: normal;
+}
+
+/*Comentários*/
+
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --cor1: #d47822; /*cor de título*/
+    --cor2: #83e1ad; /*cor dos botões*/
+    --cor3: #606369; /*fundo menu*/
+    --cor4: #a9a9a9;  /*borda do  menu*/
+
+    --titulo: "Montserrat", sans-serif;
+}
+
+body{
+    background: #FFF;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;    
+}
+
+h1{
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    color: var(--cor1);
+}
+
+/*______________________________________________________*/
+/*Explicação Media Query*/
+
+.layout{ /*centralizar contéudo*/
+    margin: 0 auto;
+}
+
+/*Smartphone Portrait - em pé*/
+
+header{
+    height: 160px;
+}
+.logo img{
+    padding: 5px 10px;
+}
+#check{
+    display: none;
+}
+.label_menu{
+    font-size: 3em;
+    position: fixed;
+    color: rgba(7, 2, 20, 0.5);
+}
+nav ul{
+    list-style: none;
+    background: var(--cor3);
+    height: 100vh;
+    position: fixed;
+    top: 60px;
+    width: 100%;
+    right: -100%;
+}
+#check:checked ~ ul{
+    right: 0;
+}
+nav ul li{
+    padding: 20px;
+    border-bottom: 1px solid #a9a9a9;
+}
+nav ul li a{
+    text-decoration: none;
+    color: var(--cor4);
+}
+
+
+/*esconder os banners*/
+
+.anime1, .anime2{
+    max-width: 100%;
+    height: auto;
+    display: none;
+}
+.anime2{
+    display: inline;
+}
+/*form
+*/
+/*#usuario #e*/
+
+
+
+/*formulario*/
+.form p{
+    font-size: 1em;
+
+}
+#usuario, #endereco, #mensagem, #pedido, #sexo{
+    border: 1px solid var(--cor3);
+    width: 340px;
+    margin: 15px 5 px;
+    padding: 5px;
+
+} 
+#sexo{
+    width: 280px;
+}
+legend{
+    font-size: 1.3em;
+    border: none;
+    margin: 5px;
+}
+input, select{
+    height: 2em;
+    border: 1px solid var(--cor3);
+    margin: 5px;
+    padding: 2px;
+    background: rgb(208, 240, 247)
+}
+textarea{
+    margin-top: 15px;
+    border: 1px solid var(--cor3);
+}
+
+
+/*Smartphone Landscape - deitado*/
+@media (min-width: 576px){
+    body{
+        background: #d3e79b;
+    }
+    .layout{
+        max-width: 540px;
+        background: #10c561;        
+    }
+}
+/*Tablet Portrait - em pé*/
+@media (min-width: 768px){
+    body{
+        background: #ea4513;
+    }
+    .layout{
+        max-width: 720px;
+        background: #dca0a0;        
+    }
+    .anime1{
+        display: none;
+    }
+    .anime2{
+        display: inline;
+    }
+/*form*/
+#usuario, #endereco, #mensagem, #pedido{
+    width: 500px;
+}
+#usuario{
+    background: url('imagens/iusuario.png') no-repeat 95% 95%;
+}
+#endereco{
+    background: url('imagens/iendereco.png') no-repeat 95% 95%;
+}
+#mensagem{
+    background: url('imagens/imensagem.png') no-repeat 95% 95%;
+}
+#pedido{
+    background: url('imagens/ipedido.png') no-repeat 95% 95%;
+}
+
+/*Tablet Landscape - deitado*/
+@media (min-width: 992px){
+    body{
+        background: #e9abec;
+    }
+    .layout{
+        max-width: 960px;
+        background: #dcc2e5;        
+    }
+}
+
+/*PC*/
+@media (min-width: 1200px){
+    body{
+        background: rgb(187, 216, 236);
+    }
+    .layout{
+        max-width: 1140px;
+        background: #a9d9f0;        
+    }
+    header{
+        height: 90px;
+    }
+    .logo img{
+        margin: 20px 0px 0px 10px;
+    }
+    .label_menu{
+        display: none;
+    }
+    nav ul{
+        position: static;
+        height: auto;
+        background: transparent;
+        margin-top: 30px;
+    }
+    nav ul li{
+        float: left;
+        border: 0;
+    }
+    nav ul li a{
+        color: var(--cor1);
+        font-weight: bold;
+    }
+    nav ul li a:hover{
+        color: var(--cor3);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+/*______________________________________________________*/
+
+/*Explicação flexbox*/
+
+/* 
+https://web.dev/learn/css/layout?hl=pt#:~:text=O%20design%20tem%20todos%20os%20tipos%20de%20layouts%20e%20composi%C3%A7%C3%B5es
+*/
+
+.emanuel{
+    height: 500px;
+    background: rgb(176, 235, 202);
+    display: flex;
+    flex-flow: row wrap; /*esse é o flex-direction e flex-wrap juntos; recomendado*/
+    /*flex-direction: row; row; ro-reverse; column; column-reverse*/
+    /*flex-wrap: wrap; nowrap; wrap; wrap-reverse*/
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+
+}
+.joao{
+    width: 150px;
+    height: 100px;
+    background: #dde6e1;
+    border: 1px solid #310505;
+    font-size: 2em;
+    flex: auto;
+}
+.ola5{
+    flex-grow: 5;
+}
+}
+
+
