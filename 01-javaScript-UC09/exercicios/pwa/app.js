@@ -1,40 +1,52 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Conversor de Pés para Metros</title>
-    <link rel="stylesheet" href="styles.css">
-    <link rel="manifest" href="manifest.json">
-</head>
-<body>
-    <header>
-        <h1>Conversor de Pés para Metros</h1>
-    </header>
-    <main>
-        <section class="converter">
-            <label for="feet">Digite o valor em pés:</label>
-            <input type="number" id="feet" placeholder="Digite o valor em pés">
-            <button onclick="convert()">Converter</button>
-            <div id="result-container">
-                <p id="result"></p>
-            </div>
-        </section>
-    </main>
-    <footer>
-        <p>© 2024 Conversor de Pés para Metros</p>
-    </footer>
-    <script src="script.js"></script>
-    <script>
-        if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register('/service-worker.js')
-                .then((registration) => {
-                    console.log('Service Worker registrado com sucesso:', registration);
-                })
-                .catch((error) => {
-                    console.log('Falha ao registrar o Service Worker:', error);
-                });
-        }
-    </script>
-</body>
-</html>
+// script.js
+function convertToFeet() {
+    const meters = document.getElementById('meters').value;
+    const resultContainer = document.getElementById('result-container');
+    const result = document.getElementById('result');
+    const funMessage = document.getElementById('fun-message');
+
+    if (meters === '') {
+        result.innerText = 'Por favor, insira um valor.';
+        resultContainer.style.display = 'block';
+        funMessage.innerText = '';
+        return;
+    }
+
+    const feet = (meters / 0.3048).toFixed(2);
+    result.innerText = `${meters} metros é igual a ${feet} pés.`;
+    resultContainer.style.display = 'block';
+
+    const messages = [
+        'Você sabia que 1 metro é igual a 3.28084 pés? 🤓',
+        'Conversão concluída com sucesso! 🚀',
+        'Agora você está mais perto do sistema imperial! 🌍',
+        'Medindo o mundo, um metro de cada vez! 👣'
+    ];
+    funMessage.innerText = messages[Math.floor(Math.random() * messages.length)];
+}
+
+function convertToMeters() {
+    const feet = document.getElementById('feet').value;
+    const resultContainer = document.getElementById('result-container');
+    const result = document.getElementById('result');
+    const funMessage = document.getElementById('fun-message');
+
+    if (feet === '') {
+        result.innerText = 'Por favor, insira um valor.';
+        resultContainer.style.display = 'block';
+        funMessage.innerText = '';
+        return;
+    }
+
+    const meters = (feet * 0.3048).toFixed(2);
+    result.innerText = `${feet} pés é igual a ${meters} metros.`;
+    resultContainer.style.display = 'block';
+
+    const messages = [
+        'Você sabia que 1 pé é igual a 0.3048 metros? 🤓',
+        'Conversão concluída com sucesso! 🚀',
+        'Agora você está mais perto do sistema métrico! 🌍',
+        'Medindo o mundo, um pé de cada vez! 👣'
+    ];
+    funMessage.innerText = messages[Math.floor(Math.random() * messages.length)];
+}

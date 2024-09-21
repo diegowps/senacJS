@@ -1,11 +1,11 @@
 {
-    "name": "Conversor de Pés para Metros",
+    "name": "Conversor Divertido de Medidas",
     "short_name": "Conversor",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#4CAF50",
-    "description": "Um simples conversor de pés para metros.",
+    "description": "Um conversor divertido de metros para pés e pés para metros.",
     "icons": [
         {
             "src": "icon.png",
