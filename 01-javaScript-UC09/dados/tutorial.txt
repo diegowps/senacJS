@@ -1,0 +1,297 @@
+Boas práticas na programação:
+
+1) Documentação
+/**
+* Descrição do código 
+* @author Arthur Garcia Volpini
+* @link https://github.com/arthurvolpini
+*/
+
+2) Código limpo
+- Não abusar de comentário
+
+3) Nomeação:
+   - Não usar caracteres especias, espaços e acentos
+   - Nomes de arquivos, variáveis, funções devem ser escrito com letra em caixa baixa(minúscula) Iniciar com caixa alta (maiúscila) apenas em classes ou modelos, 
+   - Definir nomes que tenham relação com o problema a ser resolvido
+
+4) Alinhamento (identação de código) 
+
+5) Quanto menos códigos usados para resolver o problema, melhor
+   ________________________________________________________________________
+comandos de terminal:
+
+cls ou clear (limpar a tela)
+node -v (exibe a versão do node)
+cd pasta (entrar na pasta)
+cd .. (voltar um nível)
+node arquivo.js (executar um arquivo JavaScript)
+dir ou ls (listar os arquivos de diretórios)
+________________________________________________________________________
+VSCode: Dicas
+
+Combinação de teclas <alt><shift><f> //alinhamento do código
+Mais dicas: VS Comparadores: Produtividade infimita (repositório)
+________________________________________________________________________
+JavaScript:
+
+Características
+-Trabalha com sentencas e não linhas de código
+- ; é opcional
+console.clear (limpar a tela do console)
+console.log(escrever no console)
+// comentários de linhas
+Podemos usar aspas " " ou ' ' 
+Não podemos usar aspas diferentes " '
+Dica: usar em "textos" aspas
+      usar em bibliotecas ou caminhos 'apostrofo'
+________________________________________________________________________
+Operadores:
+
+Observações: 
+- Regra de precedência
+- % (não calcula porcentagem e sim o resto da divisão)
+Ex:
+|               |    3
+|   10          |________________ 
+|                    3|
+|    1
+
+
+
+Comparadores de igualdade:
+NÃO USAR == !=
+
+Operadores lógicos:
+Dica:
+________________________________________________________________________
+Estudo das variáveis
+
+-String (caracteres)
+-Numéricas (números)
+-Booleanas (verdadeiro ou falso)
+
+Obs: No JS as variáveis sa dinâmicamente tipadas
+const (criar uma constância)
+var ou let (criar uma variável)
+ATENÇÃO !!! Não usar o var\
+
+Tipagem dinâmica
+No JavaScript o tipo String é definido quando o conteúdo da variável estiver entre aspas ""
+
+Variáveis numéricas podem ser números inteiros e não inteiros
+Observação: , (vírgula é um caractere e não um número)
+se necessário converter a entrada de dados de "," para "."
+.replace(",",".")
+
+Na entrada de dados numéricos via terminal ou formulário é necessário converter para números 
+Classe Number
+
+
+________________________________________________________________________
+Git e GitHub:
+
+Material de apoio:
+https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj
+
+Configurando o Git
+-Instalar o Git
+abrir o git bash
+git config --global user.name "seu nome"
+git config --global user.email "seu email GitHub"
+
+git clone link_do_repositório (clonar repositório na máquina local)
+
+Observaçõe: digitar os comandos na raiz do repositório
+git status (verifica o status do repositório local em relação ao GitHub)
+git add . (adiciona todas as alterações)
+git commit -m "fundamentos"<----- (nome da pasta)
+
+________________________________________________________________________
+NODE - Plataforma para uso de JS fora do browser(navegador)
+ |__ V8 (google chrome)
+ |__ bibliotecas C / C++
+ |__ pacotes npm (node packager manager)
+ npm ls (lista os pacotes)
+ npm i ou npm install (instala um pacote) 
+ npm r nome do pacote (remove o pacote)
+
+ pacote == módulo = bibliotecas
+ para usar um pacote é necessário fazer a importação no inicío do código (logo abaixo do cabeçalho de documentação)
+
+ ________________________________________________________________________
+ Algorítmo: "receita de bolo"
+
+Exemplo 1:
+Objetivo: Calcular a média de 2 notas
+
+              nota 1 + nota 2     
+Média = __________________________
+                     2
+
+Variáveis: nota1, nota2, media 
+
+Entrada: nota1 , nota2
+Processamento: media = (nota1 + nota2) /2
+Saída: media
+
+
+-------------------------------------------------------------------
+Exemplo 2 
+desenvolver um app modo console para calculo de 
+porcentagem:
+Ex: 10% de 200 = 20 
+
+Algorítmo:
+
+200 ------------- 100%
+valor ------------10%
+
+valor x 100 = 200 x 10
+        200 x 10                 2000
+valor=____________     valor = ____________ valor = 20
+         100                     100
+
+valor = (x * y)  / 100
+
+// variáveis
+x,y,valor
+
+// entrada
+x,y
+
+//Processamento
+valor = (x * y)  / 100
+
+//saida 
+valor
+
+
+Exercicio 
+desenvolver um app modo console para calcular o valor de desconto
+ ex
+ valor total 200.00 
+ desconto:5%
+ total com desconto:
+
+
+ ----------------------------------------------------------------------------
+
+ Extruturas de controle 
+
+
+ Condicionais 
+ if if-else (encadeamento/alinhamento else-if) switch-case 
+
+
+ repetições 
+ for while do-while
+
+
+ if(condição) {
+   //condição verdadeira
+ }
+
+ if(condição) {
+   //condição verdadeira
+} else {
+   //condição falsa
+}
+
+Observações:
+1) Sempre uma resposta será exibida indepedente da condição 
+2) Não pode existir uma condição verdadeira e falsa ao mesmo tempo
+
+Exemplo de uso da estrutura else if 
+no Exemplo calculo da medi, estabelecer as seguintes condições: 
+1) se o aluno tiver media menor que 2 (REPROVADO)
+2) Se a media do aluno estiver entre 2 e 5 (RECUPERAÇÂO)
+3) se a media for igual ou superior a 5 (APROVADO)
+
+
+Resumindo:
+If(condição 1) {
+   //condição 1 verdadeiro
+} else if(condição 2) {
+   //condição 2 verdadeiro
+} else if(condição 3) {
+   //condição 3 verdadeira
+} else {
+   //nenhuma das condições anteriores verdadeiras
+}
+
+OBS: o final não é obrigatório
+
+
+Exercicio 3:
+No brasil, o voto pode ser Proibido, obrigatorio ou facultativo, de acordo com os seguintes criterio:
+
+idade menor que 16 (Proibido voltar)
+idade entre 18 e 70 (incluindo 18 e 70) (voto obrigatorio)
+16,17 ou acima de 70 (voto é opcional)
+
+Desenvolva no console do JS um app para verificar em função da idade a obrigação ou não de votar.
+
+estrutura  de controle: switch-case
+sintaxe:
+Variavel (Numero inteiros ou letra)
+switch (Variavel) {
+   case: 1
+    // codigo se o valor da Variavel for igual a 1
+    break
+   case: 2 
+    // codigo se o valor da Variavel for igual a 2
+     break
+    default:
+    // codigo caso valor diferente de 1 ou 2
+    break
+
+
+}
+
+
+=================================================================
+exercicio 4: Desenvolva no console do js um aplicativo 
+que faça o sorteio de  um jogo de dados
+
+⚀
+⚁
+⚂
+⚃
+⚄
+⚅
+-----------------------------------------------------------------
+estrutura de controle - laços de repetição 
+for
+while
+do-while
+
+for estrutura de repetições finitas (determinada)
+
+for (let i=; condição; incremento/decremento) {
+   //inicio repetir enquanto condição verdadeiras; i++ ou i--
+}
+
+
+//obs: a variavel declara dentro da estrutura deveser um numero inteiro
+
+
+while do-while - estrutura de repetição inifitas
+ while (condição) {
+   //analisa a condição e execulta o codigo enquanto a condição for verdadeira
+ }
+
+
+ do{
+   //sempre execulta o codigo uma vez independete da condição, depois se comporta com while
+} while(condição)
+
+
+Assincronismo
+A linguagem js é single thread ou seja, é necessario esperar a finalização de um processamento para iniciar outro
+1 - callback (obsoleto)
+2 - promisses(promessa de entrega)
+ .then (retorno positivo)
+ .catch(error) (retorno falhou)
+3 - async wait
+
